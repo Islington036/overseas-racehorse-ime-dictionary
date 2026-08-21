@@ -24,8 +24,13 @@ NON_BV_SOURCE_FORMS = {
     ("Johannes Vermeer", "ヨハネスフェルメール"),
     ("Kristov", "クリストフ"),
     ("Makarova", "マカロワ"),
+    ("Nureyev", "ヌレイエフ"),
+    ("Nureyev", "ヌレーエフ"),
+    ("Sholokhov", "ショロコフ"),
+    ("Volksraad", "フォルクスラート"),
     ("Volkstok'n'barrell", "フォルクストクンバレル"),
     ("Volkstok'n'barrell", "フォルクストックンバレル"),
+    ("Hveger", "ヘイガー"),
 }
 
 
@@ -34,6 +39,11 @@ def katakana_to_hiragana(value: str) -> str:
         chr(ord(char) - 0x60) if 0x30A1 <= ord(char) <= 0x30F6 else char
         for char in value
     )
+
+
+def atok_reading(value: str) -> str:
+    """ATOK requires hiragana u plus a spacing dakuten instead of U+3094."""
+    return value.replace("ゔ", "う゛")
 
 
 def bv_targets(word: str) -> list[str]:
@@ -45,9 +55,9 @@ def bv_targets(word: str) -> list[str]:
             if char in "bv" and char != previous:
                 targets.append(char)
             elif part == "of" and char == "f":
-                targets.append("b")
+                targets.append("f")
             elif part == "stephen" and char == "p":
-                targets.append("b")
+                targets.append("p")
             previous = char
     return targets
 
@@ -151,8 +161,11 @@ def apple_csv_field(value: str) -> str:
 def build(rows: list[dict[str, str]]) -> None:
     DIST.mkdir(parents=True, exist_ok=True)
     entries = [f"{row['reading']}\t{row['word']}\t名詞" for row in rows]
+    atok_entries = [
+        f"{atok_reading(row['reading'])}\t{row['word']}\t名詞" for row in rows
+    ]
 
-    atok_text = "\r\n".join(["!!ATOK_TANGO_TEXT_HEADER_1", *entries, ""])
+    atok_text = "\r\n".join(["!!ATOK_TANGO_TEXT_HEADER_1", *atok_entries, ""])
     write_utf16(DIST / "atok.txt", atok_text, "be")
 
     google_text = "\n".join([*entries, ""])
@@ -191,6 +204,8 @@ def verify_outputs(expected_entries: int) -> None:
 
     if not atok.startswith("!!ATOK_TANGO_TEXT_HEADER_1\n"):
         raise ValueError("invalid ATOK header")
+    if "ゔ" in atok:
+        raise ValueError("ATOK reading contains unsupported precomposed hiragana vu")
     if google.count("\n") != expected_entries:
         raise ValueError("unexpected Google Japanese Input entry count")
     if not microsoft.startswith("!Microsoft IME Dictionary Tool\n"):
