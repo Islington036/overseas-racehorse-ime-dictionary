@@ -1,0 +1,6 @@
+*.md text eol=lf
+*.py text eol=lf
+*.tsv text eol=lf
+dist/google-ime.txt text eol=lf
+dist/atok.txt -text
+dist/microsoft-ime.txt -text
