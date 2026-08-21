@@ -141,6 +141,13 @@ def write_utf16(path: Path, text: str, byte_order: str) -> None:
         raise ValueError(f"unsupported byte order: {byte_order}")
 
 
+def apple_csv_field(value: str) -> str:
+    """Quote fields containing characters called out by Apple's CSV format."""
+    if any(char in value for char in ', \"\r\n'):
+        return f'"{value.replace(chr(34), chr(34) * 2)}"'
+    return value
+
+
 def build(rows: list[dict[str, str]]) -> None:
     DIST.mkdir(parents=True, exist_ok=True)
     entries = [f"{row['reading']}\t{row['word']}\t名詞" for row in rows]
@@ -162,11 +169,25 @@ def build(rows: list[dict[str, str]]) -> None:
     microsoft_text = "\r\n".join([*microsoft_header, *entries, ""])
     write_utf16(DIST / "microsoft-ime.txt", microsoft_text, "le")
 
+    apple_entries = [
+        ",".join(
+            [
+                apple_csv_field(row["reading"]),
+                apple_csv_field(row["word"]),
+                "普通名詞",
+            ]
+        )
+        for row in rows
+    ]
+    apple_text = "\n".join([*apple_entries, ""])
+    (DIST / "apple-japanese-input.txt").write_bytes(apple_text.encode("utf-8"))
+
 
 def verify_outputs(expected_entries: int) -> None:
     atok = (DIST / "atok.txt").read_text(encoding="utf-16")
     google = (DIST / "google-ime.txt").read_text(encoding="utf-8")
     microsoft = (DIST / "microsoft-ime.txt").read_text(encoding="utf-16")
+    apple = (DIST / "apple-japanese-input.txt").read_text(encoding="utf-8")
 
     if not atok.startswith("!!ATOK_TANGO_TEXT_HEADER_1\n"):
         raise ValueError("invalid ATOK header")
@@ -176,6 +197,11 @@ def verify_outputs(expected_entries: int) -> None:
         raise ValueError("invalid Microsoft IME header")
     if microsoft.count("\n") != expected_entries + 6:
         raise ValueError("unexpected Microsoft IME entry count")
+    apple_rows = list(csv.reader(apple.splitlines()))
+    if len(apple_rows) != expected_entries:
+        raise ValueError("unexpected Apple Japanese Input entry count")
+    if any(len(row) != 3 or row[2] != "普通名詞" for row in apple_rows):
+        raise ValueError("invalid Apple Japanese Input row")
 
 
 def main() -> None:

@@ -11,9 +11,10 @@
 ├── data/
 │   └── racehorses.tsv       # ベンダー非依存の正本
 ├── dist/
-│   ├── atok.txt             # ATOK用
-│   ├── google-ime.txt       # Google 日本語入力用
-│   └── microsoft-ime.txt    # Microsoft IME用
+│   ├── apple-japanese-input.txt # macOS「日本語入力」用
+│   ├── atok.txt                  # ATOK用
+│   ├── google-ime.txt            # Google 日本語入力・Mozc用
+│   └── microsoft-ime.txt         # Microsoft IME用
 └── scripts/
     └── build_dist.py        # 各IME用ファイルの生成・検証
 ```
@@ -50,6 +51,21 @@ python3 scripts/build_dist.py
 
 - ATOK: 辞書ユーティリティの「ファイルから登録・削除」から `dist/atok.txt` を読み込みます。
 - Google 日本語入力: 辞書ツールの「新規辞書にインポート」または「選択した辞書にインポート」から `dist/google-ime.txt` を読み込みます。
+- Mozc: 辞書ツールから `dist/google-ime.txt` を読み込みます。Google 日本語入力と同じTSV形式を利用できます。
 - Microsoft IME: ユーザー辞書ツールの「テキスト ファイルからの登録」から `dist/microsoft-ime.txt` を読み込みます。
+- macOS「日本語入力」: システム設定の「キーボード」→「テキスト入力」→「入力ソース」→「日本語」→「追加辞書」へ `dist/apple-japanese-input.txt` を追加します。
 
 既存辞書へ登録する前に、各IMEの辞書をバックアップしてください。
+
+## その他のIME候補
+
+日本国内で利用者の多いモバイルIMEとして、GboardとSimejiも配布候補です。ただし、公式に公開された安定した一括登録用テキスト仕様を確認できないため、現時点では生成対象にしていません。バックアップ用ファイルの内部仕様を推測して配布形式に転用せず、公式仕様を確認できた時点で対応します。
+
+Android端末に搭載されるiWnnやS-Shoinなどのメーカー系IMEも同様に、共通の公開インポート形式を確認できたものから追加します。
+
+## 形式仕様
+
+- [Apple「Macの日本語入力で追加辞書を使用する」](https://support.apple.com/ja-jp/guide/japanese-input-method/jpim10226/mac)
+- [Mozc User Dictionary Importer](https://github.com/google/mozc/blob/master/src/dictionary/user_dictionary_importer.cc)
+- [Gboard ヘルプ](https://support.google.com/gboard/?hl=ja)
+- [Simeji 公式FAQ](https://simeji.me/blog/preloaded-faq-support)
