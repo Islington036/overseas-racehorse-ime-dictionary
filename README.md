@@ -4,6 +4,17 @@
 
 1990年以降の欧州・北米・豪州・香港のG1勝ち馬を中心に、一部の血統的に重要な馬も収録しています。同じ英字馬名に複数のカタカナ表記がある場合は、各表記を独立した変換として収録しています。
 
+## ダウンロード
+
+利用するIMEに合った配布ファイルをダウンロードしてください。
+
+| IME | 配布ファイル |
+|---|---|
+| ATOK | [atok.txt](https://raw.githubusercontent.com/Islington036/overseas-racehorse-ime-dictionary/main/dist/atok.txt) |
+| Google 日本語入力・Mozc | [google-ime.txt](https://raw.githubusercontent.com/Islington036/overseas-racehorse-ime-dictionary/main/dist/google-ime.txt) |
+| Microsoft IME | [microsoft-ime.txt](https://raw.githubusercontent.com/Islington036/overseas-racehorse-ime-dictionary/main/dist/microsoft-ime.txt) |
+| macOS「日本語入力」 | [apple-japanese-input.txt](https://raw.githubusercontent.com/Islington036/overseas-racehorse-ime-dictionary/main/dist/apple-japanese-input.txt) |
+
 ## フォルダ構成
 
 ```text
@@ -67,3 +78,11 @@ Android端末に搭載されるiWnnやS-Shoinなどのメーカー系IMEも同�
 - [Mozc User Dictionary Importer](https://github.com/google/mozc/blob/master/src/dictionary/user_dictionary_importer.cc)
 - [Gboard ヘルプ](https://support.google.com/gboard/?hl=ja)
 - [Simeji 公式FAQ](https://simeji.me/blog/preloaded-faq-support)
+
+## 貢献
+
+馬名の追加・修正や取り込み不具合の報告を歓迎します。参加方法とデータの変更基準は[コントリビューションガイド](CONTRIBUTING.md)を参照してください。
+
+## ライセンス
+
+このリポジトリは[MIT License](LICENSE)で公開しています。

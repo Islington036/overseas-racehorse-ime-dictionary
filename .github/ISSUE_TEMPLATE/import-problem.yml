@@ -1,0 +1,46 @@
+name: IMEへの取り込み不具合
+description: 配布ファイルの読み込みや変換候補に関する問題を報告します
+title: "[IME] "
+labels:
+  - import
+body:
+  - type: dropdown
+    id: ime
+    attributes:
+      label: IME
+      options:
+        - ATOK
+        - Google 日本語入力
+        - Mozc
+        - Microsoft IME
+        - macOS 日本語入力
+        - その他
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: OS・IMEのバージョン
+      placeholder: macOS 15 / ATOK for Mac 最新版
+    validations:
+      required: true
+  - type: input
+    id: file
+    attributes:
+      label: 使用した配布ファイル
+      placeholder: dist/atok.txt
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 発生した問題
+      description: 個人辞書の内容や個人情報を含めず、操作と結果を記載してください。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期待する結果
+    validations:
+      required: true
