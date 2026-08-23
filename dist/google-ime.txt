@@ -577,6 +577,7 @@
 いんたーぷれと	Interprete	名詞
 いんたーぽる	Interpol	名詞
 いんだすとりありすと	Industrialist	名詞
+いんだすとりあるぱいおにあ	Industrial Pioneer	名詞
 いんてぐらる	Integral	名詞
 いんてるぷれて	Interprete	名詞
 いんてろじゃんと	Intellogent	名詞
@@ -605,6 +606,7 @@
 いんはーたいむ	In Her Time	名詞
 いんばそーる	Invasor	名詞
 いんばーまーく	Invermark	名詞
+いんびんしぶるあいびす	Invincible Ibis	名詞
 いんびんしぶるすぴりっと	Invincible Spirit	名詞
 いんびんしぶるせーじ	Invincible Sage	名詞
 いんびんしべら	Invincibella	名詞
@@ -628,6 +630,7 @@
 いんりありてぃ	In Reality	名詞
 いんゔぁそーる	Invasor	名詞
 いんゔぁーまーく	Invermark	名詞
+いんゔぃんしぶるあいびす	Invincible Ibis	名詞
 いんゔぃんしぶるすぴりっと	Invincible Spirit	名詞
 いんゔぃんしぶるせーじ	Invincible Sage	名詞
 いんゔぃんしべら	Invincibella	名詞
@@ -837,6 +840,7 @@
 えくせれんと	Xcellent	名詞
 えくせれんとあーと	Excellent Art	名詞
 えくせれんととぅるーす	Excellent Truth	名詞
+えくせれんとぷろぽーざる	Excellent Proposal	名詞
 えくせれんとみーてぃんぐ	Excellent Meeting	名詞
 えくそじぇなす	Exogenous	名詞
 えくそすふぃあ	Exosphere	名詞
@@ -962,6 +966,7 @@
 えるゔぇでぃや	Ervedya	名詞
 えるゔぇんせどーる	El Vencedor	名詞
 えるゔすとろーむ	Elvstroem	名詞
+えれがんとふぁっしょん	Elegant Fashion	名詞
 えれくとろきゅーしょにすと	Electrocutionist	名詞
 えれくとろにっくゆにこーん	Electronic Unicorn	名詞
 えれべいしょん	Elevation	名詞
@@ -1057,6 +1062,7 @@
 おまりりん	Omarilyn	名詞
 おらいりー	O'Reilly	名詞
 おらとりお	Oratorio	名詞
+おりえんたるえくすぷれす	Oriental Express	名詞
 おりえんていと	Orientate	名詞
 おりおーる	Aureole	名詞
 おりんぴあど	Olympiad	名詞
@@ -1336,6 +1342,7 @@
 きゃっとしーふ	Cat Thief	名詞
 きゃっとむーぶす	Cat Moves	名詞
 きゃっとむーゔす	Cat Moves	名詞
+きゃっぷふぇら	Cap Ferrat	名詞
 きゃにーらす	Canny Lass	名詞
 きゃにーらっど	Canny Lad	名詞
 きゃのっくちぇいす	Cannock Chase	名詞
@@ -1408,6 +1415,7 @@
 きんぐずばーんず	Kingsbarns	名詞
 きんぐずべすと	King's Best	名詞
 きんぐずれがしー	King's Legacy	名詞
+きんぐだんさー	King Dancer	名詞
 きんぐでいびっど	King David	名詞
 きんぐでいゔぃっど	King David	名詞
 きんぐまん	Kingman	名詞
@@ -1424,6 +1432,7 @@
 きーふれーず	Key Phrase	名詞
 きーぷざぴーす	Keep The Peace	名詞
 きーんあいす	Keen Ice	名詞
+きーんうぃなー	Keen Winner	名詞
 ぎああっぷ	Gear Up	名詞
 ぎがきっく	Giga Kick	名詞
 ぎにょーる	Guignol	名詞
@@ -1595,6 +1604,8 @@
 ぐりーんばーでぃー	Green Birdie	名詞
 ぐりーんぽいんとくるせいだー	Greenpointcrusader	名詞
 ぐりーんむーん	Green Moon	名詞
+ぐりーんめいる	Greenmail	名詞
+ぐりーんめーる	Greenmail	名詞
 ぐるめがーる	Gourmet Girl	名詞
 ぐるーぴーどーる	Groupie Doll	名詞
 ぐるーむてっせ	Groom Tesse	名詞
@@ -1648,6 +1659,7 @@
 けいひるろーど	Cahill Road	名詞
 けいふたら	Kayf Tara	名詞
 けいむほーむ	Came Home	名詞
+けさらさら	Che Sara Sara	名詞
 けにーずべすとぱる	Kenny's Best Pal	名詞
 けねどな	Kenedna	名詞
 けまー	Qemah	名詞
@@ -1904,6 +1916,7 @@
 さうすぽーとたいくーん	Southport Tycoon	名詞
 さうんどあくしょん	Sound Action	名詞
 さうんどじあらーむ	Sound The Alarm	名詞
+さうんどぷりんと	Sound Print	名詞
 さうんどぷろぽじしょん	Sound Proposition	名詞
 さおのわ	Saonois	名詞
 さおるしぇ	Saoire	名詞
@@ -1935,6 +1948,7 @@
 さどらーずじょい	Sadler's Joy	名詞
 さながす	Sanagas	名詞
 さにーくいーん	Sunny Queen	名詞
+さにーしんぐ	Sunny Sing	名詞
 さはらすかい	Sahara Sky	名詞
 さばぐりー	Savaglee	名詞
 さばびーる	Savabeel	名詞
@@ -1958,7 +1972,9 @@
 さまーぱっせーじ	Summer Passage	名詞
 さまーりー	Summerly	名詞
 さみたー	Samitar	名詞
+さむざっぷ	Thumbs Up	名詞
 さむしんぐろいやる	Somethingroyal	名詞
+さむずあっぷ	Thumbs Up	名詞
 さむずしすたー	Sam's Sister	名詞
 さもんど	Summoned	名詞
 さらとがすぷりんぐす	Saratoga Springs	名詞
@@ -2052,6 +2068,8 @@
 さーゔぁいゔど	Survived	名詞
 さーゔぃー	Survie	名詞
 ざいだん	Zaidan	名詞
+ざいてく	Zaitech	名詞
+ざいてっく	Zaitech	名詞
 ざいんた	Zainta	名詞
 ざうぃきっどのーす	The Wicked North	名詞
 ざうぇいゆーあー	Thewayyouare	名詞
@@ -2321,6 +2339,7 @@
 しれーりー	Shillelagh	名詞
 しろっこ	Shirocco	名詞
 しろぷらくたー	Chiropractor	名詞
+しんがぽーるすりんぐ	Singapore Sling	名詞
 しんぎんぐざぶるーす	Singing The Blues	名詞
 しんくあばうといっと	Think About It	名詞
 しんくいっとおーばー	Think It Over	名詞
@@ -2334,6 +2353,8 @@
 しんぐるたりー	Singletary	名詞
 しんぞ	Shinzo	名詞
 しんだー	Sinndar	名詞
+しんちれーしょん	Scintillation	名詞
+しんてぃれーしょん	Scintillation	名詞
 しんてぃろ	Scintillo	名詞
 しんでぃぐ	Shindig	名詞
 しんでぃずひーろー	Cindy's Hero	名詞
@@ -2563,6 +2584,8 @@
 すかいくらしっく	Sky Classic	名詞
 すかいこんからー	Sky Conqueror	名詞
 すかいじゃっく	Sky Jack	名詞
+すかいだるし	Sky Darci	名詞
+すかいだーしー	Sky Darci	名詞
 すかいでぃーば	Sky Diva	名詞
 すかいでぃーゔぁ	Sky Diva	名詞
 すかいはいつ	Sky Heights	名詞
@@ -2634,6 +2657,7 @@
 すたーまん	Starman	名詞
 すたーらすと	Starlust	名詞
 すたーらー	Starrer	名詞
+すたーりんぐたうん	Sterling Town	名詞
 すだーか	Sudurka	名詞
 すつーか	Stuka	名詞
 すてぃれっとぼーい	Stilleto Boy	名詞
@@ -2697,6 +2721,8 @@
 すとろーりんぐあろんぐ	Strolling Along	名詞
 すとろーる	Stroll	名詞
 すとーみんぐほーむ	Storming Home	名詞
+すとーみーぐろーぶ	Stormy Grove	名詞
+すとーみーぐろーゔ	Stormy Grove	名詞
 すとーみーばっとばりっど	Stormy But Valid	名詞
 すとーみーばっとゔぁりっど	Stormy But Valid	名詞
 すとーみーぴっく	Stormy Pick	名詞
@@ -2783,6 +2809,7 @@
 すまっしんぐぱんぷきん	Smashing Pumpkin	名詞
 すまてぃ	Sumati	名詞
 すまーてぃじょーんず	Smarty Jones	名詞
+すまーときっど	Smart Kid	名詞
 すまーとすとらいく	Smart Strike	名詞
 すまーとみさいる	Smart Missile	名詞
 すむーすろーらー	Smooth Roller	名詞
@@ -2820,11 +2847,14 @@
 すーぱーきっど	Super Kid	名詞
 すーぱーくえるかす	Super Quercus	名詞
 すーぱーくーる	Super Cool	名詞
+すーぱーさてん	Super Satin	名詞
+すーぱーさにーしんぐ	Super Sunny Sing	名詞
 すーぱーじぇむ	Supah Gem	名詞
 すーぱーすとっく	Super Stock	名詞
 すーぱーせいばー	Super Saver	名詞
 すーぱーせいゔぁー	Super Saver	名詞
 すーぱーせす	Super Seth	名詞
+すーぱーふぃっと	Super Fit	名詞
 ずべずだ	Zvezda	名詞
 ずるむー	Surumu	名詞
 ずゔぇずだ	Zvezda	名詞
@@ -2884,6 +2914,7 @@
 せるかーく	Selkirk	名詞
 せるせね	Cercene	名詞
 せるてぃっくあーむず	Celtic Arms	名詞
+せるふふりっと	Self Flit	名詞
 せるみす	Selmis	名詞
 せるりあんすかい	Cerulean Sky	名詞
 せれすてぃあるれじぇんど	Celestial Legend	名詞
@@ -3224,6 +3255,7 @@
 ちゃんぷぺがさす	Champ Pegasus	名詞
 ちゃーじふぉわーど	Charge Forward	名詞
 ちゃーちる	Churchill	名詞
+ちゃーみんぐしてぃ	Charming City	名詞
 ちゃーみんぐそーと	Charming Thought	名詞
 ちゃーむすとーん	Charm Stone	名詞
 ちゃーむすぴりっと	Charm Spirit	名詞
@@ -3728,6 +3760,7 @@
 なっきー	Nucky	名詞
 なっしゅびる	Nashville	名詞
 なっしゅゔぃる	Nashville	名詞
+なっしんぐあいらいくもあ	Nothingilikemore	名詞
 なっしんぐとぅるーず	Nothing to Lose	名詞
 なでぃーむ	Nadeem	名詞
 なにーずすうぃーぷ	Nany's Sweep	名詞
@@ -3895,6 +3928,7 @@
 はっそねっと	Hussonet	名詞
 はっぴりー	Happily	名詞
 はっぴーあんにゅい	Happyanunoit	名詞
+はっぴーがい	Happy Guy	名詞
 はっぴーくらっぱー	Happy Clapper	名詞
 はっぴーせいばー	Happy Saver	名詞
 はっぴーせいゔぁー	Happy Saver	名詞
@@ -3935,6 +3969,7 @@
 はるずほーぷ	Hal's Hope	名詞
 はろうどくらうん	Hallowed Crown	名詞
 はろー	Hello	名詞
+はろーぷりてぃ	Hello Pretty	名詞
 はろーゆーむざいん	Hello Youmzain	名詞
 はわーどうぉろうぃっつ	Howard Wolowitz	名詞
 はわーどびーぜいねーむ	Howard Be Thy Name	名詞
@@ -3995,6 +4030,7 @@
 ばいざむーん	By the Moon	名詞
 ばいすりーじぇんと	Vice Regent	名詞
 ばいたりてぃー	Vitality	名詞
+ばいたるきんぐ	Vital King	名詞
 ばいぶらんとさん	Vibrant Sun	名詞
 ばいらま	Byrama	名詞
 ばいわーど	Byword	名詞
@@ -4372,6 +4408,7 @@
 ぴんかーぴんかー	Pinker Pinker	名詞
 ぴんすとらいぷど	Pinstriped	名詞
 ぴんず	Pins	名詞
+ぴんはいすたー	Ping Hai Star	名詞
 ぴゔぉたる	Pivotal	名詞
 ぴーくすあんどばれーず	Peaks and Valleys	名詞
 ぴーくすあんどゔぁれーず	Peaks and Valleys	名詞
@@ -4640,6 +4677,7 @@
 ふろーずんふぁいあ	Frozen Fire	名詞
 ふろーらるぺがさす	Floral Pegasus	名詞
 ふろーりおっと	Floriot	名詞
+ふろーれ	Furore	名詞
 ふろーれすりー	Flawlessly	名詞
 ふーえるぶりっつ	Feuerblitz	名詞
 ふーしょっとざばーまん	Who Shot Thebarman	名詞
@@ -4915,15 +4953,19 @@
 へぶんりーぷらいず	Heavenly Prize	名詞
 へぶんりーらぶ	Heavenly Love	名詞
 へぶんりーらゔ	Heavenly Love	名詞
+へりおすえくすぷれす	Helios Express	名詞
 へりてーじおぶごーるど	Heritage of Gold	名詞
 へるしんじ	Helsinge	名詞
 へるしーあでぃくしょん	Healthy Addiction	名詞
+へるしーはっぴー	Healthy Happy	名詞
 へるびっくどりーむ	Helvic Dream	名詞
 へるべんと	Hellbent	名詞
 へるむすまん	Helmsman	名詞
 へるめっと	Helmet	名詞
 へるゔぃっくどりーむ	Helvic Dream	名詞
 へれなす	Helenus	名詞
+へれねすたー	Helene Star	名詞
+へれんすたー	Helene Star	名詞
 へれんすとりーと	Helen Street	名詞
 へれんすーぱーすたー	Helene Super Star	名詞
 へれんぱらごん	Helene Paragon	名詞
@@ -5123,6 +5165,7 @@
 ぼいぽるうすてです	Voy Por Ustedes	名詞
 ぼういずひーろー	Bowies Hero	名詞
 ぼうえこー	Bow Echo	名詞
+ぼぎーずぷらいど	Bogie's Pride	名詞
 ぼすとんはーばー	Boston Harbor	名詞
 ぼすらしゃむ	Bosra Sham	名詞
 ぼとるおぶるーじゅ	Bottle Of Rouge	名詞
@@ -5239,6 +5282,8 @@
 ぽーれっつぁ	Porlezza	名詞
 ぽーれれ	Paulele	名詞
 まいあみばうんど	Miami Bound	名詞
+まいうぃしゅ	My Wish	名詞
+まいうぃっしゅ	My Wish	名詞
 まいえま	My Emma	名詞
 まいきんぐだむおぶふぁいふ	My Kingdom of Fife	名詞
 まいくろふぉん	Microphone	名詞
@@ -5339,7 +5384,10 @@
 まっくすうぃにー	Mac Swiney	名詞
 まっくすふぃーるど	Maxfield	名詞
 まっくすぷれいやー	Max Player	名詞
+まっしぶそぶりん	Massive Sovereign	名詞
 まっしゅわん	Mash One	名詞
+まっしゔそぶりん	Massive Sovereign	名詞
+まっしゔそゔりん	Massive Sovereign	名詞
 まっちょあげいん	Macho Again	名詞
 まっどきゃっぷえすけいぱーど	Madcap Escapade	名詞
 まてぃあら	Matiara	名詞
@@ -5459,6 +5507,8 @@
 みすたーすぴーかー	Mr Speaker	名詞
 みすたーせれぶりてぃ	Mr Celebrity	名詞
 みすたーでぃのす	Mr Dinos	名詞
+みすたーばいたりてぃ	Mr Vitality	名詞
+みすたーばいたりてぃー	Mr Vitality	名詞
 みすたーぱーぷる	Mr Purple	名詞
 みすたーふりすきー	Mister Frisky	名詞
 みすたーぶらいとさいど	Mr Brightside	名詞
@@ -5467,6 +5517,8 @@
 みすたーまりがん	Mr Mulligan	名詞
 みすたーまーふぃー	Mr Murphy	名詞
 みすたーめでぃち	Mr Medici	名詞
+みすたーゔぁいたりてぃ	Mr Vitality	名詞
+みすたーゔぁいたりてぃー	Mr Vitality	名詞
 みすちばすあれっくす	Mischevious Alex	名詞
 みすちゔぁすあれっくす	Mischevious Alex	名詞
 みすちーふまじっく	Mischief Magic	名詞
@@ -5501,6 +5553,7 @@
 みっしょんあぷるーぶど	Mission Approved	名詞
 みっしょんあぷるーゔど	Mission Approved	名詞
 みっしょんせんとらる	Mission Central	名詞
+みっしょんたいくーん	Mission Tycoon	名詞
 みっでい	Midday	名詞
 みっどさまーみゅーじっく	Mid Summer Music	名詞
 みっどしっぷす	Midships	名詞
@@ -5727,6 +5780,7 @@
 ゆにばーさるぷりんす	Universal Prince	名詞
 ゆにゅーじゅあるさすぺくと	Unusual Suspect	名詞
 ゆにゔぁーさるぷりんす	Universal Prince	名詞
+ゆにーくじゅえりー	Unique Jewellery	名詞
 ゆにーくべら	Unique Bella	名詞
 ゆびあー	Yibir	名詞
 ゆりしーず	Ulysses	名詞
@@ -5748,6 +5802,7 @@
 よはねすふぇるめーる	Johannes Vermeer	名詞
 よはねすぶるぐ	Johannesburg	名詞
 よはねすゔぇるめーる	Johannes Vermeer	名詞
+よはんくらいふ	Johan Cruyff	名詞
 らいあ	Lyre	名詞
 らいあふぁん	Ryafan	名詞
 らいあんまーく	Ryan Mark	名詞
@@ -5829,6 +5884,7 @@
 らっしーでぃあ	Lassie Dear	名詞
 らっしーでぃあー	Lassie Dear	名詞
 らっどおぶざまなー	Lad Of The Manor	名詞
+らっぱーどらごん	Rapper Dragon	名詞
 らっふるず	Ruffles	名詞
 らてぃあ	La Tia	名詞
 らてぃす	Latice	名詞
@@ -5959,6 +6015,7 @@
 りてらと	Literato	名詞
 りとぅんたいくーん	Written Tycoon	名詞
 りとぅんばい	Written By	名詞
+りとるぱらだいす	Little Paradise	名詞
 りとるびっぐべあ	Little Big Bear	名詞
 りとるぶりっじ	Little Bridge	名詞
 りとるぶろーず	Little Brose	名詞
@@ -5999,6 +6056,7 @@
 りゅてぃえ	Luthier	名詞
 りゅぬどーる	Lune d'Or	名詞
 りゅみえーる	Lumiere	名詞
+りらいあぶるそーす	Reliable Source	名詞
 りらいあぶるまん	Reliable Man	名詞
 りらっくすどじぇすちゃー	Relaxed Gesture	名詞
 りりかるびっど	Lyrical Bid	名詞
@@ -6094,6 +6152,7 @@
 るびあの	Rubiano	名詞
 るびたの	Rubitano	名詞
 るびっく	Rubick	名詞
+るびーろっと	Rubylot	名詞
 るふぁーる	Leffard	名詞
 るみらくる	Le Miracle	名詞
 るろめいん	Le Romain	名詞
@@ -6160,6 +6219,7 @@
 れすたー	Leicester	名詞
 れすとれすこん	Restless Con	名詞
 れすとれすらいだー	Restless Rider	名詞
+れすふぁ	Resfa	名詞
 れすぽんす	Response	名詞
 れすりーずろーず	Leslie's Rose	名詞
 れずー	Lezoo	名詞
@@ -6434,6 +6494,7 @@
 ゔぁいかー	Vicar	名詞
 ゔぁいすりーじぇんと	Vice Regent	名詞
 ゔぁいたりてぃー	Vitality	名詞
+ゔぁいたるきんぐ	Vital King	名詞
 ゔぁいぶらんとさん	Vibrant Sun	名詞
 ゔぁいんやーどへぶん	Vineyard Haven	名詞
 ゔぁいんやーどへゔん	Vineyard Haven	名詞
