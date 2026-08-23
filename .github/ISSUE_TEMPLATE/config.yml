@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: コントリビューションガイド
+    url: https://github.com/Islington036/overseas-racehorse-ime-dictionary/blob/main/CONTRIBUTING.md
+    about: 追加・修正の基準とPull Requestの手順を確認します

@@ -1,0 +1,45 @@
+name: 馬名の追加・修正
+description: 海外競走馬の追加、カタカナ表記や英字馬名の修正を提案します
+title: "[馬名] "
+labels:
+  - horse-name
+body:
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: 種別
+      options:
+        - 新規追加
+        - 表記の追加
+        - 登録内容の修正
+        - 重複の報告
+    validations:
+      required: true
+  - type: input
+    id: english_name
+    attributes:
+      label: 英字馬名
+      placeholder: Diamond Necklace
+    validations:
+      required: true
+  - type: input
+    id: japanese_forms
+    attributes:
+      label: カタカナ表記
+      description: 表記が複数ある場合はすべて記載してください。中黒は使用しません。
+      placeholder: ダイヤモンドネックレス
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 確認資料
+      description: 表記を確認できるURLや資料名を記載してください。
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 補足
+      description: 対象馬の実績、表記揺れ、現在の登録内容などがあれば記載してください。
