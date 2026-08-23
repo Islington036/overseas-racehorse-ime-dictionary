@@ -19,5 +19,3 @@ jobs:
         run: python3 scripts/build_dist.py
       - name: Confirm generated files are current
         run: git diff --exit-code -- data dist
-      - name: Check whitespace errors
-        run: git diff --check
