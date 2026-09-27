@@ -303,6 +303,7 @@
 あるふぁべっときっせす	Alphabet Kisses	名詞
 あるふぁべっとすーぷ	Alphabet Soup	名詞
 あるふすん	Al Husn	名詞
+あるふだいば	Al Hudaiba	名詞
 あるふれっどのーべる	Alfred Nobel	名詞
 あるぶーむふぉと	Al Boum Photo	名詞
 あるぷらいど	Alpride	名詞
@@ -539,6 +540,7 @@
 いるーしゔけいと	Elusive Kate	名詞
 いれいと	Elate	名詞
 いれじん	Iresine	名詞
+いんあわーたいむ	In Our Time	名詞
 いんいたりあん	In Italian	名詞
 いんえくせす	In Excess	名詞
 いんくるーど	Include	名詞
@@ -745,6 +747,10 @@
 うぉるばーほろう	Wolver Hollow	名詞
 うぉるゔぁーほろう	Wolver Hollow	名詞
 うぉんてっど	Wanted	名詞
+うぉーうぉーぶん	Warwoven	名詞
+うぉーうぉーゔん	Warwoven	名詞
+うぉーうーぶん	Warwoven	名詞
+うぉーうーゔん	Warwoven	名詞
 うぉーえんぶれむ	War Emblem	名詞
 うぉーおぶうぃる	War of Will	名詞
 うぉーこまんど	War Command	名詞
@@ -943,6 +949,7 @@
 えるだーえるだろふ	Eldar Eldarov	名詞
 えるだーえるだろゔ	Eldar Eldarov	名詞
 えるでぃーる	El Deal	名詞
+えるでなり	Erdenali	名詞
 えるとるめんた	El Tormenta	名詞
 えるどらど	El Dorado	名詞
 えるどらどどりーみんぐ	El Dorado Dreaming	名詞
@@ -983,6 +990,7 @@
 えんしぇんとわーるど	Ancient World	名詞
 えんじぇるおぶえんぱいあ	Angel of Empire	名詞
 えんじぇるおぶとぅるーす	Angel of Truth	名詞
+えんじぇるきゃぴたる	Angel Capital	名詞
 えんじぇるぶるー	Angel Bleu	名詞
 えんぜり	Enzeli	名詞
 えんぞずらっど	Enzo's Lad	名詞
@@ -1097,6 +1105,7 @@
 おーじーるーるず	Aussie Rules	名詞
 おーす	Oath	名詞
 おーせんてぃっくぱでぃ	Authentic Paddy	名詞
+おーそどっくす	Orthodox	名詞
 おーそらいずど	Authorized	名詞
 おーたむえんじぇる	Autumn Angel	名詞
 おーたむぐろう	Autumn Glow	名詞
@@ -1438,6 +1447,7 @@
 ぎにょーる	Guignol	名詞
 ぎふとぼっくす	Gift Box	名詞
 ぎべりんず	Ghibellines	名詞
+ぎみーあなざー	Gimme a Nother	名詞
 ぎゃざりんぐ	Gathering	名詞
 ぎゃびーずごーるでんぎゃる	Gabby's Golden Gal	名詞
 ぎゃみん	Gamine	名詞
@@ -1937,6 +1947,7 @@
 さじぇすてぃゔぼーい	Suggestive Boy	名詞
 さじーる	Sajir	名詞
 さする	Sasuru	名詞
+さだっど	Saddadd	名詞
 さっしーいめーじ	Sassy Image	名詞
 さっち	Thatch	名詞
 さっちんぐ	Thatching	名詞
@@ -1967,6 +1978,7 @@
 さまんがん	Samangan	名詞
 さまーころにー	Summer Colony	名詞
 さまーすこーる	Summer Squall	名詞
+さまーすたーれっと	Summer Starlet	名詞
 さまーそわれ	Summer Soiree	名詞
 さまーばーど	Summer Bird	名詞
 さまーぱっせーじ	Summer Passage	名詞
@@ -2077,6 +2089,7 @@
 ざがりあ	Zagalia	名詞
 ざくぉーたーばっく	The Quarterback	名詞
 ざくりふずえっじ	The Cliff's Edge	名詞
+ざぐっどらいふ	The Good Life	名詞
 ざぐるか	The Gurkha	名詞
 ざぐるーむいずれっど	The Groom Is Red	名詞
 ざぐれい	Zagrey	名詞
@@ -2118,6 +2131,7 @@
 ざぶれいしぶ	Zabrasive	名詞
 ざぶれいしゔ	Zabrasive	名詞
 ざぷらちなむくいーん	The Platinum Queen	名詞
+ざぷーま	The Puma	名詞
 ざへっくらー	The Heckler	名詞
 ざぼすとにあん	The Bostonian	名詞
 ざまいてぃらいおんず	The Mighty Lions	名詞
@@ -2897,6 +2911,7 @@
 せでくれむ	Sedecrem	名詞
 せでーとりー	Sedately	名詞
 せにゅあ	Senure	名詞
+せにょりーたぼにーた	Senorita Bonita	名詞
 せねっくす	Senex	名詞
 せぱるす	Sepals	名詞
 せぱれーしょんおぶぱわーず	Separationofpowers	名詞
@@ -3091,6 +3106,7 @@
 たまらんど	Tamarando	名詞
 たまりすく	Tamarisk	名詞
 たまーくず	Tamarkuz	名詞
+たむたむ	Tam Tam	名詞
 たむふぁな	Tamfana	名詞
 たむれっと	Tamerett	名詞
 たらすこん	Tarascon	名詞
@@ -3220,6 +3236,7 @@
 だーくえんじぇる	Dark Angel	名詞
 だーくですとろいやー	Dark Destroyer	名詞
 だーくどりーむ	Dark Dream	名詞
+だーくねすふぉーるず	Darkness Falls	名詞
 だーくむーんだんさー	Dark Moondancer	名詞
 だーしぶらーま	Darci Brahma	名詞
 だーすとん	Durston	名詞
@@ -3733,6 +3750,7 @@
 ないたいむ	Nightime	名詞
 ないつおーだー	Knights Order	名詞
 ないつちょいす	Knight's Choice	名詞
+ないつぶりっじ	Knightsbridge	名詞
 ないとおぶさんだー	Night Of Thunder	名詞
 ないとしふと	Night Shift	名詞
 ないとふらわー	Nightflower	名詞
@@ -3895,6 +3913,7 @@
 のーまたーびわっと	No Matter What	名詞
 のーみーんしてぃ	No Mean City	名詞
 はいいーるど	High Yield	名詞
+はいうぇいまん	Highwayman	名詞
 はいえすとおなー	Highest Honor	名詞
 はいしゃぱらる	High Chaparral	名詞
 はいじんくす	High Jinx	名詞
@@ -4036,6 +4055,7 @@
 ばいわーど	Byword	名詞
 ばいんやーどへぶん	Vineyard Haven	名詞
 ばいんやーどへゔん	Vineyard Haven	名詞
+ばいゔぁはと	Beiwacht	名詞
 ばうあんどでくれあ	Vow and Declare	名詞
 ばうんでぃんぐ	Bounding	名詞
 ばえざ	Baeza	名詞
@@ -4138,6 +4158,7 @@
 ばーじにあらぴっず	Virginia Rapids	名詞
 ばーだ	Varda	名詞
 ばーちゅある	Virtual	名詞
+ばーちょ	Bacio	名詞
 ばーてぃかるぶるー	Vertical Blue	名詞
 ばーでんおぶぷるーふ	Burden of Proof	名詞
 ばーどあっとざわいやー	Birdatthewire	名詞
@@ -4260,10 +4281,12 @@
 ひどぅんれいく	Hidden Lake	名詞
 ひどにすと	Hedonist	名詞
 ひばーいぇぶ	Hibaayeb	名詞
+ひむ	Hymn	名詞
 ひむぶっく	Hymn Book	名詞
 ひやーかむずふぇん	Here Comes When	名詞
 ひやーとぅしょっく	Here To Shock	名詞
 ひやーむ	Hiyaam	名詞
+ひゅーず	Hughes	名詞
 ひゅーそねっと	Hussonet	名詞
 ひゅーみどーる	Humidor	名詞
 ひるすたー	Hillstar	名詞
@@ -4562,6 +4585,7 @@
 ふぉるくすとくんばれる	Volkstok'n'barrell	名詞
 ふぉるくすとっくんばれる	Volkstok'n'barrell	名詞
 ふぉるくすらーと	Volksraad	名詞
+ふぉるさむぶるーす	Folsom Blues	名詞
 ふぉるて	Forte	名詞
 ふぉるてでいまるみ	Forte Dei Marmi	名詞
 ふぉれすときゃんぷ	Forest Camp	名詞
@@ -4582,6 +4606,7 @@
 ふぉーくおぺら	Folk Opera	名詞
 ふぉーくなー	Fawkner	名詞
 ふぉーくろあ	Folklore	名詞
+ふぉーじどすてぃーる	Forged Steel	名詞
 ふぉーすざぱす	Force the Pass	名詞
 ふぉーすたーくるっく	Fourstar Crook	名詞
 ふぉーだ	Fowda	名詞
@@ -4640,6 +4665,7 @@
 ふりっと	Flit	名詞
 ふりんとしゃー	Flintshire	名詞
 ふりーいーぐる	Free Eagle	名詞
+ふりーさぶすくらいぶど	Fully Subscribed	名詞
 ふりーすぴりっつじょい	Free Spirit's Joy	名詞
 ふりーてぃんぐすぴりっと	Fleeting Spirit	名詞
 ふりーといんでぃあん	Fleet Indian	名詞
@@ -5160,11 +5186,13 @@
 ほーるでぃんぐこーと	Holding Court	名詞
 ほーるどざしぐりーん	Holdthasigreen	名詞
 ほーるどざっとたいがー	Hold That Tiger	名詞
+ぼいじゃー	Voyager	名詞
 ぼいすたらす	Boisterous	名詞
 ぼいっじばぶる	Voyage Bubble	名詞
 ぼいぽるうすてです	Voy Por Ustedes	名詞
 ぼういずひーろー	Bowies Hero	名詞
 ぼうえこー	Bow Echo	名詞
+ぼうでいしゃすべい	Bodacious Bay	名詞
 ぼぎーずぷらいど	Bogie's Pride	名詞
 ぼすとんはーばー	Boston Harbor	名詞
 ぼすらしゃむ	Bosra Sham	名詞
@@ -5285,8 +5313,12 @@
 まいうぃしゅ	My Wish	名詞
 まいうぃっしゅ	My Wish	名詞
 まいえま	My Emma	名詞
+まいがんずろーでっど	My Gun's Loaded	名詞
 まいきんぐだむおぶふぁいふ	My Kingdom of Fife	名詞
 まいくろふぉん	Microphone	名詞
+まいぐらじおら	My Gladiola	名詞
+まいぐらでぃおら	My Gladiola	名詞
+まいぐらでぃおーら	My Gladiola	名詞
 まいけるずちょいす	Michael's Choice	名詞
 まいこんくえすたどりー	My Conquestadory	名詞
 まいすいーとあでぃくしょん	My Sweet Addiction	名詞
@@ -5539,6 +5571,7 @@
 みすぽてんしゃる	Miss Potential	名詞
 みすまっち	Miss Match	名詞
 みすもすまん	Miss Mossman	名詞
+みすもにか	Miss Monica	名詞
 みすらがでぃあん	Miss Raggedy Ann	名詞
 みすりめんばーど	Misremembered	名詞
 みすりんだ	Miss Linda	名詞
@@ -6110,6 +6143,7 @@
 りーさるふぉーす	Lethal Force	名詞
 りーじょなる	Regional	名詞
 りーだーしっぷ	Leadership	名詞
+りーでぃんぐちぇんじ	Leading Change	名詞
 りーでぃんぐらいと	Leading Light	名詞
 りーどあーてぃすと	Lead Artist	名詞
 りーふすけーぷ	Reefscape	名詞
@@ -6438,6 +6472,7 @@
 わいくく	Waikuku	名詞
 わいずあぷろーち	Wise Approach	名詞
 わいずだん	Wise Dan	名詞
+わいたく	Waitak	名詞
 わいたっく	Waitak	名詞
 わいるどあいりす	Wild Iris	名詞
 わいるどあげいん	Wild Again	名詞
@@ -6619,6 +6654,7 @@
 ゔぇんちゅら	Ventura	名詞
 ゔぇんでぃみあぴん	Vendimia Pin	名詞
 ゔぇーるどぐれーす	Vert De Grece	名詞
+ゔぉいじゃー	Voyager	名詞
 ゔぉいっじばぶる	Voyage Bubble	名詞
 ゔぉいぽるうすてです	Voy Por Ustedes	名詞
 ゔぉにゅすてぃ	Vonusti	名詞

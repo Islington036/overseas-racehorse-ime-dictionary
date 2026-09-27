@@ -18,6 +18,8 @@ BV_TOKEN_RE = re.compile(
 )
 NON_BV_SOURCE_FORMS = {
     ("Baryshnikov", "バリシニコフ"),
+    # German w supplies ヴ; the initial b remains バ (JRA-VAN N0019699).
+    ("Beiwacht", "バイヴァハト"),
     ("Eldar Eldarov", "エルダーエルダロフ"),
     ("Fasliyev", "ファスリエフ"),
     ("Jan Vermeer", "ヤンフェルメール"),
