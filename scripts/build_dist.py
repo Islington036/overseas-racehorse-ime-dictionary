@@ -25,9 +25,12 @@ NON_BV_SOURCE_FORMS = {
     ("Jan Vermeer", "ヤンフェルメール"),
     ("Johannes Vermeer", "ヨハネスフェルメール"),
     ("Kristov", "クリストフ"),
+    # Russian-style -ova rendered as ワ (racedb.com horse pages).
+    ("Lara Antipova", "ララアンチポワ"),
     ("Makarova", "マカロワ"),
     ("Nureyev", "ヌレイエフ"),
     ("Nureyev", "ヌレーエフ"),
+    ("Panova", "パノワ"),
     ("Sholokhov", "ショロコフ"),
     ("Volksraad", "フォルクスラート"),
     ("Volkstok'n'barrell", "フォルクストクンバレル"),

@@ -19,6 +19,7 @@ reading	word	pos	japanese_form
 あいてむ	Item	noun	アイテム
 あいどぅ	I Do	noun	アイドゥ
 あいどる	Idol	noun	アイドル
+あいどるふらいやー	Idle Flyer	noun	アイドルフライヤー
 あいばんほう	Ivanhowe	noun	アイバンホウ
 あいばー	Ivar	noun	アイバー
 あいびくとりー	Ivictory	noun	アイビクトリー
@@ -187,6 +188,7 @@ reading	word	pos	japanese_form
 あふりーとあれっくす	Afleet Alex	noun	アフリートアレックス
 あふりーとえくすぷれす	Afleet Express	noun	アフリートエクスプレス
 あふるえんと	Affluent	noun	アフルエント
+あぶすこんど	Abscond	noun	アブスコンド
 あぶそりゅーとちゃんぴおん	Absolute Champion	noun	アブソリュートチャンピオン
 あぶそるーとちゃんぴおん	Absolute Champion	noun	アブソルートチャンピオン
 あぶそるーとりー	Absolutely	noun	アブソルートリー
@@ -207,6 +209,7 @@ reading	word	pos	japanese_form
 あまろん	Amaron	noun	アマロン
 あまんぷーる	Amanpour	noun	アマンプール
 あみかす	Amicus	noun	アミカス
+あみゅーじんぐりー	Amusingly	noun	アミュージングリー
 あみりんくす	Amilynx	noun	アミリンクス
 あみーらっと	Ameerat	noun	アミーラット
 あめりあずじゅえる	Amelia's Jewel	noun	アメリアズジュエル
@@ -216,6 +219,7 @@ reading	word	pos	japanese_form
 あめりかんあふぇあ	American Affair	noun	アメリカンアフェア
 あめりかんぎゃる	American Gal	noun	アメリカンギャル
 あめりかんせおれむ	American Theorem	noun	アメリカンセオレム
+あめりかんひすとりー	American History	noun	アメリカンヒストリー
 あめりかんふぁらお	American Pharoah	noun	アメリカンファラオ
 あめりかんぺいとりおっと	American Patriot	noun	アメリカンペイトリオット
 あめりかんぽすと	American Post	noun	アメリカンポスト
@@ -235,7 +239,9 @@ reading	word	pos	japanese_form
 あらばまえくすぷれす	Alabama Express	noun	アラバマエクスプレス
 あらぱほ	Arapaho	noun	アラパホ
 あらぱほみす	Arapaho Miss	noun	アラパホミス
+あらぱほー	Arapaho	noun	アラパホー
 あらびあんくいーん	Arabian Queen	noun	アラビアンクイーン
+あらびあんくらうん	Arabian Crown	noun	アラビアンクラウン
 あらびあんらいおん	Arabian Lion	noun	アラビアンライオン
 あらべーる	Arravale	noun	アラベール
 あらむしゃー	Alamshar	noun	アラムシャー
@@ -346,6 +352,7 @@ reading	word	pos	japanese_form
 あれずすえず	Allez Suez	noun	アレズスエズ
 あれずわんだー	Allez Wonder	noun	アレズワンダー
 あれっくすざぐれーと	Alex the Great	noun	アレックスザグレート
+あれんかー	Alenquer	noun	アレンカー
 あろいしあ	Aloisia	noun	アロイシア
 あろういーぐる	Arrow Eagle	noun	アロウイーグル
 あろげーと	Arrogate	noun	アロゲート
@@ -377,6 +384,7 @@ reading	word	pos	japanese_form
 あんだうてっどりー	Undoubtedly	noun	アンダウテッドリー
 あんだーざるーぶる	Under the Louvre	noun	アンダーザルーブル
 あんだーざるーゔる	Under the Louvre	noun	アンダーザルーヴル
+あんてぃくありあん	Antiquarian	noun	アンティクアリアン
 あんてぃくえりあん	Antiquarian	noun	アンティクエリアン
 あんてぃの	Antino	noun	アンティノ
 あんてぃめいむ	Auntie Mame	noun	アンティメイム
@@ -495,6 +503,7 @@ reading	word	pos	japanese_form
 いすたぶらく	Istabraq	noun	イスタブラク
 いすたぶらっく	Istabraq	noun	イスタブラック
 いすてぃだーど	Istidaad	noun	イスティダード
+いすふぁはん	Isfahan	noun	イスファハン
 いずりんとん	Islington	noun	イズリントン
 いそっぷすふぇいぶるず	Aesop's Fables	noun	イソップスフェイブルズ
 いっつあひむ	Ihtsahymn	noun	イッツアヒム
@@ -660,6 +669,7 @@ reading	word	pos	japanese_form
 うぃきっどうぃすぱー	Wicked Whisper	noun	ウィキッドウィスパー
 うぃきっどすとろんぐ	Wicked Strong	noun	ウィキッドストロング
 うぃきっどりーぱーふぇくと	Wickedly Perfect	noun	ウィキッドリーパーフェクト
+うぃぐもあ	Wigmore	noun	ウィグモア
 うぃぐもあほーる	Wigmore Hall	noun	ウィグモアホール
 うぃじゃぼーど	Ouija Board	noun	ウィジャボード
 うぃずあうとあふぁいと	Without A Fight	noun	ウィズアウトアファイト
@@ -682,6 +692,7 @@ reading	word	pos	japanese_form
 うぃるこ	Wilko	noun	ウィルコ
 うぃるずうぇい	Will's Way	noun	ウィルズウェイ
 うぃるていくちゃーじ	Will Take Charge	noun	ウィルテイクチャージ
+うぃろうぃー	Willowy	noun	ウィロウィー
 うぃんうぃんうぃん	Win Win Win	noun	ウィンウィンウィン
 うぃんくす	Winx	noun	ウィンクス
 うぃんぐすおぶいーぐるず	Wings Of Eagles	noun	ウィングスオブイーグルズ
@@ -689,6 +700,7 @@ reading	word	pos	japanese_form
 うぃんぐどらゔ	Winged Love	noun	ウィングドラヴ
 うぃんしり	Winsili	noun	ウィンシリ
 うぃんす	Wince	noun	ウィンス
+うぃんたー	Winter	noun	ウィンター
 うぃんたーぱわー	Winter Power	noun	ウィンターパワー
 うぃんたーめもりーず	Winter Memories	noun	ウィンターメモリーズ
 うぃんちぇすたー	Winchester	noun	ウィンチェスター
@@ -771,6 +783,7 @@ reading	word	pos	japanese_form
 うぉーれんずゔぇねだ	Warren's Veneda	noun	ウォーレンズヴェネダ
 うしゃ	Usha	noun	ウシャ
 うっでぃど	Wooded	noun	ウッディド
+うっどしゃうな	Woodshauna	noun	ウッドシャウナ
 うっどしょーな	Woodshauna	noun	ウッドショーナ
 うっどまん	Woodman	noun	ウッドマン
 うはいだ	Wuheida	noun	ウハイダ
@@ -870,6 +883,7 @@ reading	word	pos	japanese_form
 えこーずーるー	Echo Zulu	noun	エコーズールー
 えこーたうん	Echo Town	noun	エコータウン
 えしかるだいあもんど	Ethical Diamond	noun	エシカルダイアモンド
+えしかるだいやもんど	Ethical Diamond	noun	エシカルダイヤモンド
 えしゃーだ	Eshaada	noun	エシャーダ
 えしゅろん	Echelon	noun	エシュロン
 えじぷしゃんらー	Egyptian Ra	noun	エジプシャンラー
@@ -896,6 +910,7 @@ reading	word	pos	japanese_form
 えっせんしゃるくおりてぃ	Essential Quality	noun	エッセンシャルクオリティ
 えでぃたーずのーと	Editor's Note	noun	エディターズノート
 えでぃんとん	Eddington	noun	エディントン
+えでゅあるど	Eduardo	noun	エデュアルド
 えでゅけいてっどりすく	Educated Risk	noun	エデュケイテッドリスク
 えでゅけーてっどりすく	Educated Risk	noun	エデュケーテッドリスク
 えとわーる	Etoile	noun	エトワール
@@ -931,6 +946,7 @@ reading	word	pos	japanese_form
 えむわんらいふる	M One Rifle	noun	エムワンライフル
 えめらるどどりーむ	Emerald Dream	noun	エメラルドドリーム
 えもりえんと	Emollient	noun	エモリエント
+えりあーぬ	Aeliana	noun	エリアーヌ
 えりこーさむ	Ellicorsam	noun	エリコーサム
 えりしお	Helissio	noun	エリシオ
 えりぷてぃーく	Elliptique	noun	エリプティーク
@@ -952,6 +968,7 @@ reading	word	pos	japanese_form
 えるでぃーる	El Deal	noun	エルディール
 えるでなり	Erdenali	noun	エルデナリ
 えるとるめんた	El Tormenta	noun	エルトルメンタ
+えるどなり	Erdenali	noun	エルドナリ
 えるどらど	El Dorado	noun	エルドラド
 えるどらどどりーみんぐ	El Dorado Dreaming	noun	エルドラドドリーミング
 えるどらーど	El Dorado	noun	エルドラード
@@ -971,6 +988,7 @@ reading	word	pos	japanese_form
 えるまーむる	Elmaamul	noun	エルマームル
 えるむはーすと	Elmhurst	noun	エルムハースト
 えるむぱーく	Elm Park	noun	エルムパーク
+えるれ	Erle	noun	エルレ
 えるゔぇでぃや	Ervedya	noun	エルヴェディヤ
 えるゔぇんせどーる	El Vencedor	noun	エルヴェンセドール
 えるゔすとろーむ	Elvstroem	noun	エルヴストローム
@@ -992,6 +1010,7 @@ reading	word	pos	japanese_form
 えんじぇるおぶえんぱいあ	Angel of Empire	noun	エンジェルオブエンパイア
 えんじぇるおぶとぅるーす	Angel of Truth	noun	エンジェルオブトゥルース
 えんじぇるきゃぴたる	Angel Capital	noun	エンジェルキャピタル
+えんじぇるずへいろー	Angels Halo	noun	エンジェルズヘイロー
 えんじぇるぶるー	Angel Bleu	noun	エンジェルブルー
 えんぜり	Enzeli	noun	エンゼリ
 えんぞずらっど	Enzo's Lad	noun	エンゾズラッド
@@ -1001,6 +1020,8 @@ reading	word	pos	japanese_form
 えんばしー	Embassy	noun	エンバシー
 えんぱいあずちょいす	Empires Choice	noun	エンパイアズチョイス
 えんぱいあめーかー	Empire Maker	noun	エンパイアメーカー
+えんふぁてぃく	Emphatic	noun	エンファティク
+えんふぁてぃっく	Emphatic	noun	エンファティック
 えんぷれすじょせふぃん	Empress Josephine	noun	エンプレスジョセフィン
 えんべりっしゅ	Embellish	noun	エンベリッシュ
 えんべりっしゅざれーす	Embellish the Lace	noun	エンベリッシュザレース
@@ -1015,6 +1036,7 @@ reading	word	pos	japanese_form
 えーしーでゅーしー	Acey Deucey	noun	エーシーデューシー
 えーじーうぉりあ	A Z Warrior	noun	エージーウォリア
 えーじーばれっと	Ag Bullet	noun	エージーバレット
+えーじーびゅれっと	Ag Bullet	noun	エージービュレット
 えーすいんぱくと	Ace Impact	noun	エースインパクト
 えーすはい	Ace High	noun	エースハイ
 えーぜっとうぉりあー	A Z Warrior	noun	エーゼットウォリアー
@@ -1041,6 +1063,7 @@ reading	word	pos	japanese_form
 おずもしす	Ozzmosis	noun	オズモシス
 おそりお	Osorio	noun	オソリオ
 おっくすぼう	Oxbow	noun	オックスボウ
+おでうむ	Odeum	noun	オデウム
 おでりず	Odeliz	noun	オデリズ
 おなーあんどぐろーりー	Honour and Glory	noun	オナーアンドグローリー
 おなーいんうぉー	Honor in War	noun	オナーインウォー
@@ -1067,6 +1090,7 @@ reading	word	pos	japanese_form
 おぶゔぃあすりー	Obviously	noun	オブヴィアスリー
 おぺらしんがー	Opera Singer	noun	オペラシンガー
 おぺらはうす	Opera House	noun	オペラハウス
+おほーぷうぃんず	Ohope Wins	noun	オホープウィンズ
 おまはびーち	Omaha Beach	noun	オマハビーチ
 おまりりん	Omarilyn	noun	オマリリン
 おらいりー	O'Reilly	noun	オライリー
@@ -1105,6 +1129,7 @@ reading	word	pos	japanese_form
 おーしゃんろーど	Ocean Road	noun	オーシャンロード
 おーじーるーるず	Aussie Rules	noun	オージールールズ
 おーす	Oath	noun	オース
+おーせんてぃっく	Authentic	noun	オーセンティック
 おーせんてぃっくぱでぃ	Authentic Paddy	noun	オーセンティックパディ
 おーそどっくす	Orthodox	noun	オーソドックス
 おーそらいずど	Authorized	noun	オーソライズド
@@ -1127,6 +1152,7 @@ reading	word	pos	japanese_form
 おーぷにんぐばーす	Opening Verse	noun	オープニングバース
 おーぷにんぐゔぁーす	Opening Verse	noun	オープニングヴァース
 おーぺん	Orpen	noun	オーペン
+おーほぺうぃんず	Ohope Wins	noun	オーホペウィンズ
 おーほわっとあうぃんどふぉーる	Oh What a Windfall	noun	オーホワットアウィンドフォール
 おーるあめりかん	All American	noun	オールアメリカン
 おーるあわーもぶ	All Our Mob	noun	オールアワーモブ
@@ -1149,6 +1175,7 @@ reading	word	pos	japanese_form
 おーゔぁーりーち	Overreach	noun	オーヴァーリーチ
 かいとさーふ	Kitesurf	noun	カイトサーフ
 かいんどおぶぶるー	Kind of Blue	noun	カインドオブブルー
+かいんらいじんぐ	Ka Ying Rising	noun	カインライジング
 かうぃ	Kawi	noun	カウィ
 かうとすたー	Kauto Star	noun	カウトスター
 かうんてぃたいろん	County Tyrone	noun	カウンティタイロン
@@ -1179,11 +1206,13 @@ reading	word	pos	japanese_form
 かたりすと	Catalyst	noun	カタリスト
 かっとざけーき	Cut The Cake	noun	カットザケーキ
 かてぃんか	Catinca	noun	カティンカ
+かてぃんまりっさ	Kathynmarissa	noun	カティンマリッサ
 かとりっくぼーい	Catholic Boy	noun	カトリックボーイ
 かのっくちぇいす	Cannock Chase	noun	カノックチェイス
 かはる	Kahal	noun	カハル
 かばりえり	Cavalieri	noun	カバリエリ
 かばるす	Caballus	noun	カバルス
+かばーじょでまーる	Caballo De Mar	noun	カバージョデマール
 かばーとらぶ	Covert Love	noun	カバートラブ
 かばーとらゔ	Covert Love	noun	カバートラヴ
 かばーよでまーる	Caballo De Mar	noun	カバーヨデマール
@@ -1195,6 +1224,8 @@ reading	word	pos	japanese_form
 かぽーてぃ	Capote	noun	カポーティ
 かぽーてべる	Capote Belle	noun	カポーテベル
 かまりら	Camarilla	noun	カマリラ
+かまんちぶれいぶ	Comanche Brave	noun	カマンチブレイブ
+かまんちぶれいゔ	Comanche Brave	noun	カマンチブレイヴ
 かみんするー	Comin' Through	noun	カミンスルー
 かみーゆぴさろ	Camille Pissarro	noun	カミーユピサロ
 かむじん	Kamsin	noun	カムジン
@@ -1218,6 +1249,7 @@ reading	word	pos	japanese_form
 かりすまてぃっく	Charismatic	noun	カリスマティック
 かりっく	Carrick	noun	カリック
 かりっじもなみ	Courage Mon Ami	noun	カリッジモナミ
+かりふ	Calif	noun	カリフ
 かりふぉるにあくろーむ	California Chrome	noun	カリフォルニアクローム
 かりふぉるにあすぱんぐる	California Spangle	noun	カリフォルニアスパングル
 かりふぉるにあめもりー	California Memory	noun	カリフォルニアメモリー
@@ -1243,6 +1275,7 @@ reading	word	pos	japanese_form
 かれりあん	Karelian	noun	カレリアン
 かれんしーすわっぷ	Currency Swap	noun	カレンシースワップ
 かろ	Caro	noun	カロ
+かんでらり	Candelari	noun	カンデラリ
 かんとりーすたー	Country Star	noun	カントリースター
 かんとりーはうす	Country House	noun	カントリーハウス
 かんどぅらり	Candelari	noun	カンドゥラリ
@@ -1250,6 +1283,8 @@ reading	word	pos	japanese_form
 かんぱのろじすと	Campanologist	noun	カンパノロジスト
 かんびーな	Cambina	noun	カンビーナ
 かんぴおねっさ	Campionessa	noun	カンピオネッサ
+かんぴおーねいたりあ	Campione D'Italia	noun	カンピオーネイタリア
+かんぴおーねでぃたりあ	Campione D'Italia	noun	カンピオーネディタリア
 かゔぁりえり	Cavalieri	noun	カヴァリエリ
 かゔぁーとらぶ	Covert Love	noun	カヴァートラブ
 かゔぁーとらゔ	Covert Love	noun	カヴァートラヴ
@@ -1320,6 +1355,7 @@ reading	word	pos	japanese_form
 きけろずぎふと	Cicero's Gift	noun	キケロズギフト
 きさきさきさ	Quiza Quiza Quiza	noun	キサキサキサ
 きじさな	Quisisana	noun	キジサナ
+きじさーな	Quisisana	noun	キジサーナ
 きじゃーの	Quijano	noun	キジャーノ
 きすてな	Kistena	noun	キステナ
 きたるふぁ	Kitalpha	noun	キタルファ
@@ -1335,6 +1371,7 @@ reading	word	pos	japanese_form
 きぷりおす	Kyprios	noun	キプリオス
 きまり	Kimari	noun	キマリ
 きもち	Kimochi	noun	キモチ
+きゃさんまりっさ	Kathynmarissa	noun	キャサンマリッサ
 きゃしーんまりっさ	Kathynmarissa	noun	キャシーンマリッサ
 きゃすてるべきお	Castelvecchio	noun	キャステルベキオ
 きゃすてるゔぇきお	Castelvecchio	noun	キャステルヴェキオ
@@ -1402,6 +1439,7 @@ reading	word	pos	japanese_form
 きりずくらうん	Kiri's Clown	noun	キリズクラウン
 きるうぃん	Kilwin	noun	キルウィン
 きんぐおぶきんぐす	King of Kings	noun	キングオブキングス
+きんぐおぶごすふぉーど	King Of Gosford	noun	キングオブゴスフォード
 きんぐおぶごーるど	King Of Gosford	noun	キングオブゴールド
 きんぐおぶざひーぷ	King of the Heap	noun	キングオブザヒープ
 きんぐおぶすてぃーる	King Of Steel	noun	キングオブスティール
@@ -1460,15 +1498,19 @@ reading	word	pos	japanese_form
 ぎるでっどたいむ	Gilded Time	noun	ギルデッドタイム
 ぎるとえっじがーる	Gilt Edge Girl	noun	ギルトエッジガール
 くあどらてらる	Quadrilateral	noun	クアドラテラル
+くぃーんずたうん	Queenstown	noun	クィーンズタウン
+くいっくしんかー	Quick Thinker	noun	クイックシンカー
 くいっくそーん	Quickthorn	noun	クイックソーン
 くいっくみすちーふ	Quick Mischief	noun	クイックミスチーフ
 くいふ	Quiff	noun	クイフ
+くいんてっさ	Quintessa	noun	クインテッサ
 くいんてっせんしゃる	Quintessential	noun	クインテッセンシャル
 くいんとぅさ	Quintessa	noun	クイントゥサ
 くいーな	Queena	noun	クイーナ
 くいーんごっです	Queen Goddess	noun	クイーンゴッデス
 くいーんずこーとくいーん	Queens Court Queen	noun	クイーンズコートクイーン
 くいーんずじゅえる	Queen's Jewel	noun	クイーンズジュエル
+くいーんずたうん	Queenstown	noun	クイーンズタウン
 くいーんずとらすと	Queen's Trust	noun	クイーンズトラスト
 くいーんずふざー	Queen's Hussar	noun	クイーンズフザー
 くいーんずろじっく	Queen's Logic	noun	クイーンズロジック
@@ -1481,6 +1523,7 @@ reading	word	pos	japanese_form
 くおりてぃろーど	Quality Road	noun	クオリティロード
 くおりふぁい	Qualify	noun	クオリファイ
 くおると	Quorto	noun	クオルト
+くけらーちゃ	Kukeracha	noun	クケラーチャ
 くし	Kusi	noun	クシ
 くしゃだし	Kushadasi	noun	クシャダシ
 くつぶ	Kutub	noun	クツブ
@@ -1527,6 +1570,7 @@ reading	word	pos	japanese_form
 くりすとふ	Kristov	noun	クリストフ
 くりすとゔ	Kristov	noun	クリストヴ
 くりすぷ	Crisp	noun	クリスプ
+くりすますでい	Christmas Day	noun	クリスマスデイ
 くりすますでー	Christmas Day	noun	クリスマスデー
 くりせりあむ	Chriselliam	noun	クリセリアム
 くりてぃかるあい	Critical Eye	noun	クリティカルアイ
@@ -1549,6 +1593,7 @@ reading	word	pos	japanese_form
 くろすおぶすたーず	Cloth Of Stars	noun	クロスオブスターズ
 くろすかうんたー	Cross Counter	noun	クロスカウンター
 くろすとらふぃっく	Cross Traffic	noun	クロストラフィック
+くろせってぃ	Crocetti	noun	クロセッティ
 くろちぇってぃ	Crocetti	noun	クロチェッティ
 くろどびる	Clodovil	noun	クロドビル
 くろどら	Clodora	noun	クロドラ
@@ -1556,6 +1601,7 @@ reading	word	pos	japanese_form
 くろーずあっぷ	Close Up	noun	クローズアップ
 くろーずはっちず	Close Hatches	noun	クローズハッチズ
 くろーる	Crawl	noun	クロール
+くろーん	Krone	noun	クローン
 くわいえっとあめりかん	Quiet American	noun	クワイエットアメリカン
 くわいえっとりふれくしょん	Quiet Reflection	noun	クワイエットリフレクション
 くーじーうぉーく	Coogee Walk	noun	クージーウォーク
@@ -1574,6 +1620,7 @@ reading	word	pos	japanese_form
 ぐっどげす	Good Guess	noun	グッドゲス
 ぐっどじゃーにー	Good Journey	noun	グッドジャーニー
 ぐっどちあ	Good Cheer	noun	グッドチア
+ぐっどちあー	Good Cheer	noun	グッドチアー
 ぐっどないとおりーぶ	Goodnight Olive	noun	グッドナイトオリーブ
 ぐっどないとおりーゔ	Goodnight Olive	noun	グッドナイトオリーヴ
 ぐっどばば	Good Ba Ba	noun	グッドババ
@@ -1583,6 +1630,7 @@ reading	word	pos	japanese_form
 ぐっどりわーど	Good Reward	noun	グッドリワード
 ぐらいんどすとーん	Grindstone	noun	グラインドストーン
 ぐらうと	Grout	noun	グラウト
+ぐらしあす	Glacius	noun	グラシアス
 ぐらすすりっぱーず	Glass Slippers	noun	グラススリッパーズ
 ぐらすはーもにうむ	Glass Harmonium	noun	グラスハーモニウム
 ぐらまーぷす	Glamour Puss	noun	グラマープス
@@ -1607,8 +1655,10 @@ reading	word	pos	japanese_form
 ぐりんとおぶほーぷ	Glint Of Hope	noun	グリントオブホープ
 ぐりーくだんす	Greek Dance	noun	グリークダンス
 ぐりーんうっどれいく	Greenwood Lake	noun	グリーンウッドレイク
+ぐりーんえんぷれす	Green Empress	noun	グリーンエンプレス
 ぐりーんぐらっと	Green Gratto	noun	グリーングラット
 ぐりーんすとりーと	Greene Street	noun	グリーンストリート
+ぐりーんすぺーしず	Green Spaces	noun	グリーンスペーシズ
 ぐりーんだんさー	Green Dancer	noun	グリーンダンサー
 ぐりーんちゅーん	Green Tune	noun	グリーンチューン
 ぐりーんでざーと	Green Desert	noun	グリーンデザート
@@ -1655,6 +1705,7 @@ reading	word	pos	japanese_form
 ぐろろしあ	Glorosia	noun	グロロシア
 ぐろーばるきゃんぺーん	Global Campaign	noun	グローバルキャンペーン
 ぐろーばるぐらまー	Global Glamour	noun	グローバルグラマー
+ぐろーばるごーる	Global Goal	noun	グローバルゴール
 ぐろーばるはんたー	Global Hunter	noun	グローバルハンター
 ぐろーぶ	Globe	noun	グローブ
 ぐろーりあすそんぐ	Glorious Song	noun	グローリアスソング
@@ -1731,6 +1782,7 @@ reading	word	pos	japanese_form
 こすとおぶふりーだむ	Cost of Freedom	noun	コストオブフリーダム
 こすとろーま	Kostroma	noun	コストローマ
 こすまー	Cosmah	noun	コスマー
+こすみっくくるせいだー	Cosmic Crusader	noun	コスミッククルセイダー
 こずみっくえんでばー	Cosmic Endeavour	noun	コズミックエンデバー
 こずみっくえんでゔぁー	Cosmic Endeavour	noun	コズミックエンデヴァー
 こずみっくくるせいだー	Cosmic Crusader	noun	コズミッククルセイダー
@@ -1774,6 +1826,7 @@ reading	word	pos	japanese_form
 これくしょん	Collection	noun	コレクション
 これくてっど	Collected	noun	コレクテッド
 これくとざきゃっしゅ	Collect the Cash	noun	コレクトザキャッシュ
+これっと	Colette	noun	コレット
 ころえばす	Coroebus	noun	コロエバス
 ころなどずくえすと	Coronado's Quest	noun	コロナドズクエスト
 ころにあるあっふぇあー	Colonial Affair	noun	コロニアルアッフェアー
@@ -1797,6 +1850,7 @@ reading	word	pos	japanese_form
 こんてぃにゅあすりー	Continuously	noun	コンティニュアスリー
 こんてすてぃっど	Contested	noun	コンテスティッド
 こんてすてっど	Contested	noun	コンテステッド
+こんてぱるてぃろ	Con Te Partiro	noun	コンテパルティロ
 こんてんと	Content	noun	コンテント
 こんてんとめんと	Contentment	noun	コンテントメント
 こんでゅいっと	Conduit	noun	コンデュイット
@@ -1844,6 +1898,7 @@ reading	word	pos	japanese_form
 こーるばっく	Callback	noun	コールバック
 ごじっぷがーる	Gozzip Girl	noun	ゴジップガール
 ごっさまー	Gossamer	noun	ゴッサマー
+ごっずうぃんどう	God's Window	noun	ゴッズウィンドウ
 ごっずおうん	God's Own	noun	ゴッズオウン
 ごっとすとーみー	Got Stormy	noun	ゴットストーミー
 ごっどぎぶん	God Given	noun	ゴッドギブン
@@ -1906,6 +1961,7 @@ reading	word	pos	japanese_form
 さいえだてぃ	Sayyedati	noun	サイエダティ
 さいすみっくびゅーてぃ	Seismic Beauty	noun	サイスミックビューティ
 さいずみっくびゅーてぃ	Seismic Beauty	noun	サイズミックビューティ
+さいずみっくびゅーてぃー	Seismic Beauty	noun	サイズミックビューティー
 さいとうぃなー	Sight Winner	noun	サイトウィナー
 さいとしーく	Sightseek	noun	サイトシーク
 さいどぐらんす	Side Glance	noun	サイドグランス
@@ -1946,6 +2002,7 @@ reading	word	pos	japanese_form
 さざんろーど	Southern Lord	noun	サザンロード
 さじぇすてぃぶぼーい	Suggestive Boy	noun	サジェスティブボーイ
 さじぇすてぃゔぼーい	Suggestive Boy	noun	サジェスティヴボーイ
+さじー	Sajir	noun	サジー
 さじーる	Sajir	noun	サジール
 さする	Sasuru	noun	サスル
 さだっど	Saddadd	noun	サダッド
@@ -1963,6 +2020,8 @@ reading	word	pos	japanese_form
 さにーしんぐ	Sunny Sing	noun	サニーシング
 さはらすかい	Sahara Sky	noun	サハラスカイ
 さばぐりー	Savaglee	noun	サバグリー
+さばてぃあーの	Savatiano	noun	サバティアーノ
+さばとえくせる	Savatoxl	noun	サバトエクセル
 さばびーる	Savabeel	noun	サバビール
 さばりあ	Savaria	noun	サバリア
 さびーくー	Savvy Coup	noun	サビークー
@@ -2018,6 +2077,8 @@ reading	word	pos	japanese_form
 さんせっとぐろう	Sunset Glow	noun	サンセットグロウ
 さんせばすちゃん	San Sebastian	noun	サンセバスチャン
 さんたあなれーん	Santa Ana Lane	noun	サンタアナレーン
+さんたがだ	Santagada	noun	サンタガダ
+さんたがーだ	Santagada	noun	サンタガーダ
 さんたてれじーた	Santa Teresita	noun	サンタテレジータ
 さんたばーばら	Santa Barbara	noun	サンタバーバラ
 さんたもにか	Santa Monica	noun	サンタモニカ
@@ -2042,6 +2103,8 @@ reading	word	pos	japanese_form
 さんりばー	Sunriver	noun	サンリバー
 さんりゔぁー	Sunriver	noun	サンリヴァー
 さゔぁぐりー	Savaglee	noun	サヴァグリー
+さゔぁてぃあーの	Savatiano	noun	サヴァティアーノ
+さゔぁとえくせる	Savatoxl	noun	サヴァトエクセル
 さゔぁびーる	Savabeel	noun	サヴァビール
 さゔぁりあ	Savaria	noun	サヴァリア
 さゔぃーくー	Savvy Coup	noun	サヴィークー
@@ -2076,6 +2139,7 @@ reading	word	pos	japanese_form
 さーふぇす	Surface	noun	サーフェス
 さーふさいど	Surfside	noun	サーフサイド
 さーべあー	Sir Bear	noun	サーベアー
+さーぺんたいん	Serpentine	noun	サーペンタイン
 さーらん	Sahlan	noun	サーラン
 さーゔぁいぶど	Survived	noun	サーヴァイブド
 さーゔぁいゔど	Survived	noun	サーヴァイヴド
@@ -2109,6 +2173,7 @@ reading	word	pos	japanese_form
 ざでぴゅてぃ	The Deputy	noun	ザデピュティ
 ざでゅーく	The Duke	noun	ザデューク
 ざなどぅ	Xanadu	noun	ザナドゥ
+ざねくすとえぴそーど	The Next Episode	noun	ザネクストエピソード
 ざばいと	Zavite	noun	ザバイト
 ざばてり	Zavateri	noun	ザバテリ
 ざばーみねーたー	The Verminator	noun	ザバーミネーター
@@ -2181,6 +2246,7 @@ reading	word	pos	japanese_form
 しぇいますあわーど	Shamus Award	noun	シェイマスアワード
 しぇいむ	Shame	noun	シェイム
 しぇいゔぃあん	Shavian	noun	シェイヴィアン
+しぇざありばい	Sheza Alibi	noun	シェザアリバイ
 しぇずしんせーしょなる	Shez Sinsational	noun	シェズシンセーショナル
 しぇなにがんず	Shenanigans	noun	シェナニガンズ
 しぇにーる	Chenille	noun	シェニール
@@ -2188,6 +2254,7 @@ reading	word	pos	japanese_form
 しぇるびーしっくすてぃしっくす	Shelby Sixtysix	noun	シェルビーシックスティシックス
 しぇーる	Shale	noun	シェール
 しえらすー	Sierra Sue	noun	シエラスー
+しえられおね	Sierra Leone	noun	シエラレオネ
 しえられおーね	Sierra Leone	noun	シエラレオーネ
 しがー	Cigar	noun	シガー
 しぐにふぁい	Signify	noun	シグニファイ
@@ -2201,6 +2268,7 @@ reading	word	pos	japanese_form
 しするくらっく	Thistlecrack	noun	シスルクラック
 しず	Shizu	noun	シズ
 しずりんぐ	Sizzling	noun	シズリング
+しせろずぎふと	Cicero's Gift	noun	シセロズギフト
 しそすぱいしー	Shisospicy	noun	シソスパイシー
 しちずんぶる	Citizen Bull	noun	シチズンブル
 しっくすてぃせかんず	Sixty Seconds	noun	シックスティセカンズ
@@ -2219,11 +2287,13 @@ reading	word	pos	japanese_form
 しにすたーみにすたー	Sinister Minister	noun	シニスターミニスター
 しばいあん	Sibayan	noun	シバイアン
 しばやん	Sibayan	noun	シバヤン
+しびるゆにおん	Civil Union	noun	シビルユニオン
 しむかみる	Simca Mille	noun	シムカミル
 しゃいだーりんぐ	Shy Darling	noun	シャイダーリング
 しゃいでる	Sheidel	noun	シャイデル
 しゃいにんぐえなじー	Shining Energy	noun	シャイニングエナジー
 しゃいんあげいん	Shine Again	noun	シャインアゲイン
+しゃうとざばー	Shout The Bar	noun	シャウトザバー
 しゃか	Shaka	noun	シャカ
 しゃきーる	Shakeel	noun	シャキール
 しゃきーる	Shaquille	noun	シャキール
@@ -2290,6 +2360,9 @@ reading	word	pos	japanese_form
 しゅばるぼらんと	Cheval Volant	noun	シュバルボラント
 しゅばるゔぉらんと	Cheval Volant	noun	シュバルヴォラント
 しゅらおー	Shraaoh	noun	シュラオー
+しゅるびー	Survie	noun	シュルビー
+しゅるゔぃー	Survie	noun	シュルヴィー
+しゅれっどざなー	Shred the Gnar	noun	シュレッドザナー
 しゅれどざなー	Shred the Gnar	noun	シュレドザナー
 しゅわるつ	Schwarz	noun	シュワルツ
 しゅゔぁるぼらんと	Cheval Volant	noun	シュヴァルボラント
@@ -2312,6 +2385,7 @@ reading	word	pos	japanese_form
 しょーぐんろっじ	Shogun Lodge	noun	ショーグンロッジ
 しょーけーしんぐ	Showcasing	noun	ショーケーシング
 しょーるず	Shoals	noun	ショールズ
+しら	Scylla	noun	シラ
 しらうぃ	Silawi	noun	シラウィ
 しらざまたず	Shirazamatazz	noun	シラザマタズ
 しらそる	Silasol	noun	シラソル
@@ -2381,6 +2455,7 @@ reading	word	pos	japanese_form
 しんぷりーらゔぃしんぐ	Simply Ravishing	noun	シンプリーラヴィシング
 しんぷるばーす	Simple Verse	noun	シンプルバース
 しんぷるゔぁーす	Simple Verse	noun	シンプルヴァース
+しゔぃるゆにおん	Civil Union	noun	シヴィルユニオン
 しーうぃるれいん	She Will Reign	noun	シーウィルレイン
 しーえすしるく	C.S. Silk	noun	シーエスシルク
 しーおぶくらす	Sea of Class	noun	シーオブクラス
@@ -2411,6 +2486,7 @@ reading	word	pos	japanese_form
 しーずざぐれい	Seize the Grey	noun	シーズザグレイ
 しーずざでい	Seize The Day	noun	シーズザデイ
 しーずんずぶるーむ	Seasons Bloom	noun	シーズンズブルーム
+しーそーすぱいしー	Shisospicy	noun	シーソースパイシー
 しーちぇんじ	Seachange	noun	シーチェンジ
 しーであずざでびる	Shedaresthedevil	noun	シーデアズザデビル
 しーであずざでゔぃる	Shedaresthedevil	noun	シーデアズザデヴィル
@@ -2467,6 +2543,7 @@ reading	word	pos	japanese_form
 じむかるー	Jymcarew	noun	ジムカルー
 じゃいあんつこーずうぇい	Giant's Causeway	noun	ジャイアンツコーズウェイ
 じゃいあんとおーく	Giant Oak	noun	ジャイアントオーク
+じゃいあんとせこいあ	Giant Sequoia	noun	ジャイアントセコイア
 じゃいあんととれじゃー	Giant Treasure	noun	ジャイアントトレジャー
 じゃいあんとらいあん	Giant Ryan	noun	ジャイアントライアン
 じゃいしーと	Jaycito	noun	ジャイシート
@@ -2503,6 +2580,7 @@ reading	word	pos	japanese_form
 じゃゔぁずうぉー	Java's War	noun	ジャヴァズウォー
 じゃーじーがーる	Jersey Girl	noun	ジャージーガール
 じゃーじーたうん	Jersey Town	noun	ジャージータウン
+じゃーなりずむ	Journalism	noun	ジャーナリズム
 じゃーにー	Journey	noun	ジャーニー
 じゃーまにー	Germany	noun	ジャーマニー
 じゅえるぷりんせす	Jewel Princess	noun	ジュエルプリンセス
@@ -2524,6 +2602,7 @@ reading	word	pos	japanese_form
 じゅーるず	Jules	noun	ジュールズ
 じゅーん	Jeune	noun	ジューン
 じゅーんきんぐぷろーん	Jeune King Prawn	noun	ジューンキングプローン
+じょあんなうぉるしゅ	Johanna Walsh	noun	ジョアンナウォルシュ
 じょいあんどふぁん	Joy And Fun	noun	ジョイアンドファン
 じょいふるうぃなー	Joyful Winner	noun	ジョイフルウィナー
 じょいふるびくとりー	Joyful Victory	noun	ジョイフルビクトリー
@@ -2532,6 +2611,7 @@ reading	word	pos	japanese_form
 じょする	Jostle	noun	ジョスル
 じょにーいぶす	Johnny Eves	noun	ジョニーイブス
 じょにーいゔす	Johnny Eves	noun	ジョニーイヴス
+じょにーげっとあんぐりー	Johnny Get Angry	noun	ジョニーゲットアングリー
 じょにーべあー	Johnny Bear	noun	ジョニーベアー
 じょは	Joha	noun	ジョハ
 じょはなうぉるしゅ	Johanna Walsh	noun	ジョハナウォルシュ
@@ -2590,6 +2670,7 @@ reading	word	pos	japanese_form
 すうぃーとりたーん	Sweet Return	noun	スウィートリターン
 すうぃーとりーずん	Sweet Reason	noun	スウィートリーズン
 すうぃーとるる	Sweet Lulu	noun	スウィートルル
+すうぃーとれでぃ	Sweet Lady	noun	スウィートレディ
 すうぃーとろれった	Sweet Loretta	noun	スウィートロレッタ
 すうぇいん	Swain	noun	スウェイン
 すうぇぷとおーばーぼーど	Swept Overboard	noun	スウェプトオーバーボード
@@ -2608,6 +2689,7 @@ reading	word	pos	japanese_form
 すかいびゅーてぃ	Sky Beauty	noun	スカイビューティ
 すかいびゅーてぃー	Sky Beauty	noun	スカイビューティー
 すかいふぃーるど	Sky Field	noun	スカイフィールド
+すかいふっく	Skyhook	noun	スカイフック
 すかいめさ	Sky Mesa	noun	スカイメサ
 すかいらんたん	Sky Lantern	noun	スカイランタン
 すかっふるばーぐ	Scuffleburg	noun	スカッフルバーグ
@@ -2727,6 +2809,7 @@ reading	word	pos	japanese_form
 すとりーとぼす	Street Boss	noun	ストリートボス
 すとりーま	Streama	noun	ストリーマ
 すとりーみんぐ	Streaming	noun	ストリーミング
+すとれいさんど	Streisand	noun	ストレイサンド
 すとれいとすとらいく	Straight Strike	noun	ストレイトストライク
 すとれいとのーちぇいさー	Straight No Chaser	noun	ストレイトノーチェイサー
 すとれーとのーちぇいさー	Straight No Chaser	noun	ストレートノーチェイサー
@@ -2742,6 +2825,8 @@ reading	word	pos	japanese_form
 すとーみーばっとゔぁりっど	Stormy But Valid	noun	ストーミーバットヴァリッド
 すとーみーぴっく	Stormy Pick	noun	ストーミーピック
 すとーみーぶるーす	Stormy Blues	noun	ストーミーブルース
+すとーみーまるこ	Stormy Marco	noun	ストーミーマルコ
+すとーみーまーこ	Stormy Marco	noun	ストーミーマーコ
 すとーみーりばー	Stormy River	noun	ストーミーリバー
 すとーみーりべらる	Stormy Liberal	noun	ストーミーリベラル
 すとーみーりゔぁー	Stormy River	noun	ストーミーリヴァー
@@ -2768,6 +2853,8 @@ reading	word	pos	japanese_form
 すのーらんたん	Snow Lantern	noun	スノーランタン
 すのーらんど	Snowland	noun	スノーランド
 すのーりっじ	Snow Ridge	noun	スノーリッジ
+すぱいしーまてぃーに	Spicy Martini	noun	スパイシーマティーニ
+すぱいしーまーてぃに	Spicy Martini	noun	スパイシーマーティニ
 すぱいすどぱーふぇくしょん	Spiced Perfection	noun	スパイスドパーフェクション
 すぱにっしゅくいん	Spanish Queen	noun	スパニッシュクイン
 すぱにっしゅふぁーん	Spanish Fern	noun	スパニッシュファーン
@@ -2796,6 +2883,7 @@ reading	word	pos	japanese_form
 すぴーどぼーとびーち	Speed Boat Beach	noun	スピードボートビーチ
 すふぇのふぁいた	Sphenophyta	noun	スフェノファイタ
 すぷらいと	Spright	noun	スプライト
+すぷらっしゅばっく	Splash Back	noun	スプラッシュバック
 すぷりんぐあっとらすと	Spring At Last	noun	スプリングアットラスト
 すぷりんぐいんじえあー	Spring in the Air	noun	スプリングインジエアー
 すぷりんぐくおりてぃ	Spring Quality	noun	スプリングクオリティ
@@ -2862,10 +2950,13 @@ reading	word	pos	japanese_form
 すーぱーきっど	Super Kid	noun	スーパーキッド
 すーぱーくえるかす	Super Quercus	noun	スーパークエルカス
 すーぱーくーる	Super Cool	noun	スーパークール
+すーぱーこれどら	Super Corredora	noun	スーパーコレドラ
+すーぱーこれどーら	Super Corredora	noun	スーパーコレドーラ
 すーぱーさてん	Super Satin	noun	スーパーサテン
 すーぱーさにーしんぐ	Super Sunny Sing	noun	スーパーサニーシング
 すーぱーじぇむ	Supah Gem	noun	スーパージェム
 すーぱーすとっく	Super Stock	noun	スーパーストック
+すーぱーすとーむ	Superstorm	noun	スーパーストーム
 すーぱーせいばー	Super Saver	noun	スーパーセイバー
 すーぱーせいゔぁー	Super Saver	noun	スーパーセイヴァー
 すーぱーせす	Super Seth	noun	スーパーセス
@@ -2875,6 +2966,7 @@ reading	word	pos	japanese_form
 ずゔぇずだ	Zvezda	noun	ズヴェズダ
 ずーがっちゃ	Zougotcha	noun	ズーガッチャ
 ずーすたー	Zoustar	noun	ズースター
+ずーとーり	Zoutori	noun	ズートーリ
 ずーなくあ	Zoonaqua	noun	ズーナクア
 ずーるーあるふぁ	Zulu Alpha	noun	ズールーアルファ
 ずーるーきんぐだむ	Zulu Kingdom	noun	ズールーキングダム
@@ -2884,6 +2976,7 @@ reading	word	pos	japanese_form
 せいくりっどちょいす	Sacred Choice	noun	セイクリッドチョイス
 せいくれっどすたー	Sacred Star	noun	セイクレッドスター
 せいくれっどふぉーるず	Sacred Falls	noun	セイクレッドフォールズ
+せいすみっくびゅーてぃー	Seismic Beauty	noun	セイスミックビューティー
 せいすもす	Seismos	noun	セイスモス
 せいのーもあ	Say No More	noun	セイノーモア
 せいふりーけぷと	Safely Kept	noun	セイフリーケプト
@@ -2892,6 +2985,7 @@ reading	word	pos	japanese_form
 せいんとばらーど	Saint Ballado	noun	セイントバラード
 せいんとりあむ	Saint Liam	noun	セイントリアム
 せいんとりー	Saintly	noun	セイントリー
+せいんとりーだんさー	Saintly Dancer	noun	セイントリーダンサー
 せいゔざらすとだんす	Savethelastdance	noun	セイヴザラストダンス
 せおるうるふ	Ceolwulf	noun	セオルウルフ
 せかんどえんぱいあ	Second Empire	noun	セカンドエンパイア
@@ -2900,6 +2994,7 @@ reading	word	pos	japanese_form
 せかんどせっと	Second Set	noun	セカンドセット
 せくすあぴーる	Sex Appeal	noun	セクスアピール
 せくれてーむ	Secrettame	noun	セクレテーム
+せげすた	Segesta	noun	セゲスタ
 せこや	Sequoyah	noun	セコヤ
 せざんぬ	Cezanne	noun	セザンヌ
 せじぇすた	Segesta	noun	セジェスタ
@@ -2926,9 +3021,11 @@ reading	word	pos	japanese_form
 せぽい	Sepoy	noun	セポイ
 せらぴすと	Therapist	noun	セラピスト
 せられいく	Serra Lake	noun	セラレイク
+せりえんほるで	Serienholde	noun	セリエンホルデ
 せりの	Selino	noun	セリノ
 せるかーく	Selkirk	noun	セルカーク
 せるせね	Cercene	noun	セルセネ
+せるせーぬ	Cercene	noun	セルセーヌ
 せるてぃっくあーむず	Celtic Arms	noun	セルティックアームズ
 せるふふりっと	Self Flit	noun	セルフフリット
 せるみす	Selmis	noun	セルミス
@@ -2938,6 +3035,7 @@ reading	word	pos	japanese_form
 せれなずそんぐ	Serena's Song	noun	セレナズソング
 せれなーでろーず	Serenade Rose	noun	セレナーデローズ
 せれね	Selene	noun	セレネ
+せれぶりてぃくいーん	Celebrity Queen	noun	セレブリティクイーン
 せれりっく	Celeric	noun	セレリック
 せれんげてぃえんぷれす	Serengeti Empress	noun	セレンゲティエンプレス
 せんが	Senga	noun	センガ
@@ -3035,6 +3133,7 @@ reading	word	pos	japanese_form
 そーとぷろせす	Thought Process	noun	ソートプロセス
 そーどおぶおすまん	Sword Of Osman	noun	ソードオブオスマン
 そーはっぴー	So Happy	noun	ソーハッピー
+そーぴーどあな	Thorpedo Anna	noun	ソーピードアナ
 そーぴーどあんな	Thorpedo Anna	noun	ソーピードアンナ
 そーふぁくちゅある	So Factual	noun	ソーファクチュアル
 そーべつ	Sobetsu	noun	ソーベツ
@@ -3062,8 +3161,10 @@ reading	word	pos	japanese_form
 たいくーんたら	Tycoon Tara	noun	タイクーンタラ
 たいくーんりる	Tycoon Lil	noun	タイクーンリル
 たいざのっと	Tie The Knot	noun	タイザノット
+たいぞーん	Tyzone	noun	タイゾーン
 たいたにっくじゃっく	Titanic Jack	noun	タイタニックジャック
 たいとすぽっと	Tight Spot	noun	タイトスポット
+たいとるろーる	Title Role	noun	タイトルロール
 たいば	Taiba	noun	タイバ
 たいぱん	Taipan	noun	タイパン
 たいふーんとれーしー	Typhoon Tracy	noun	タイフーントレーシー
@@ -3076,6 +3177,7 @@ reading	word	pos	japanese_form
 たいむわーぷ	Time Warp	noun	タイムワープ
 たうきーる	Tawkeel	noun	タウキール
 たうふぁんずめろでぃ	Taufan's Melody	noun	タウファンズメロディ
+たうんくるーず	Town Cruise	noun	タウンクルーズ
 たかふる	Takaful	noun	タカフル
 たがろあ	Tagaloa	noun	タガロア
 たくてぃかるきゃっと	Tactical Cat	noun	タクティカルキャット
@@ -3150,6 +3252,7 @@ reading	word	pos	japanese_form
 だいなふぉーまー	Dynaformer	noun	ダイナフォーマー
 だいなみっくぷらいしんぐ	Dynamic Pricing	noun	ダイナミックプライシング
 だいばーしふぁい	Diversify	noun	ダイバーシファイ
+だいやもんずあんどるびーず	Diamondsandrubies	noun	ダイヤモンズアンドルビーズ
 だいやもんどどりる	Diamond Drille	noun	ダイヤモンドドリル
 だいやもんどねっくれす	Diamond Necklace	noun	ダイヤモンドネックレス
 だいやもんどらばー	Diamond Lover	noun	ダイヤモンドラバー
@@ -3263,6 +3366,7 @@ reading	word	pos	japanese_form
 ちゃいむずおぶふりーだむ	Chimes of Freedom	noun	チャイムズオブフリーダム
 ちゃちゃめいでぃー	Chachamaidee	noun	チャチャメイディー
 ちゃとーか	Chautauqua	noun	チャトーカ
+ちゃねる	Channel	noun	チャネル
 ちゃぽさすぷりんぐす	Chaposa Springs	noun	チャポサスプリングス
 ちゃりてぃーらいん	Charity Line	noun	チャリティーライン
 ちゃりん	Charyn	noun	チャリン
@@ -3279,6 +3383,8 @@ reading	word	pos	japanese_form
 ちゃーむすぴりっと	Charm Spirit	noun	チャームスピリット
 ちゅーずでー	Tuesday	noun	チューズデー
 ちゅーずでーじょい	Tuesday Joy	noun	チューズデージョイ
+ちょいしあ	Choisya	noun	チョイシア
+ちょいしゃ	Choisya	noun	チョイシャ
 ちょいすぶろ	Choice Bro	noun	チョイスブロ
 ちょこれーとじぇらーと	Chocolate Gelato	noun	チョコレートジェラート
 ちょっくあいす	Choc Ice	noun	チョックアイス
@@ -3297,6 +3403,7 @@ reading	word	pos	japanese_form
 つばる	Tuvalu	noun	ツバル
 つゔぁる	Tuvalu	noun	ツヴァル
 つーりすと	Tourist	noun	ツーリスト
+てあお	Teao	noun	テアオ
 てあかうしゃーく	Te Akau Shark	noun	テアカウシャーク
 てぃあご	Tiago	noun	ティアゴ
 てぃおーな	Teona	noun	ティオーナ
@@ -3316,6 +3423,7 @@ reading	word	pos	japanese_form
 てぃなーずうぇい	Tinners Way	noun	ティナーズウェイ
 てぃばち	Tivaci	noun	ティバチ
 てぃぴかりーあいりっしゅ	Tipically Irish	noun	ティピカリーアイリッシュ
+てぃふぁにー	Tiffany	noun	ティファニー
 てぃべる	Tiber	noun	ティベル
 てぃまりだ	Timarida	noun	ティマリダ
 てぃみ	Timi	noun	ティミ
@@ -3378,6 +3486,7 @@ reading	word	pos	japanese_form
 てんぷてっど	Tempted	noun	テンプテッド
 てんぷるおぶぶーむ	Temple of Boom	noun	テンプルオブブーム
 てんぺら	Tempera	noun	テンペラ
+てんぼぶとにー	Ten Bob Tony	noun	テンボブトニー
 てんま	Tenma	noun	テンマ
 てんもすとうぉんてっど	Ten Most Wanted	noun	テンモストウォンテッド
 てーおーえるびす	T O Elvis	noun	テーオーエルビス
@@ -3567,6 +3676,7 @@ reading	word	pos	japanese_form
 とぅるーてぃんばー	True Timber	noun	トゥルーティンバー
 とぅるーらぶ	True Love	noun	トゥルーラブ
 とぅるーらゔ	True Love	noun	トゥルーラヴ
+とぅるーりーぐれーと	Truly Great	noun	トゥルーリーグレート
 とぅーあるたざの	Two Altazano	noun	トゥーアルタザノ
 とぅーえみーず	Two Emmys	noun	トゥーエミーズ
 とぅーそー	Toussaud	noun	トゥーソー
@@ -3585,6 +3695,7 @@ reading	word	pos	japanese_form
 となりすと	Tonalist	noun	トナリスト
 とびーずこーなー	Toby's Corner	noun	トビーズコーナー
 とふぁね	Tofane	noun	トファネ
+とふぃーたん	Toffee Tongue	noun	トフィータン
 とぶるく	Tobruk	noun	トブルク
 とぼっぐ	Tobougg	noun	トボッグ
 とみすーずでぃらいと	Tomisue's Delight	noun	トミスーズディライト
@@ -3632,6 +3743,7 @@ reading	word	pos	japanese_form
 とろなーど	Toronado	noun	トロナード
 とろぴかす	Tropicus	noun	トロピカス
 とろぴかるすこーる	Tropical Squall	noun	トロピカルスコール
+とろんぼると	Tron Bolt	noun	トロンボルト
 とろーらーまん	Trawlerman	noun	トローラーマン
 とわいすおーばー	Twice Over	noun	トワイスオーバー
 とわいすおーゔぁー	Twice Over	noun	トワイスオーヴァー
@@ -3643,10 +3755,12 @@ reading	word	pos	japanese_form
 とわいらいとぺいめんと	Twilight Payment	noun	トワイライトペイメント
 とわーりんぐきゃんでぃ	Twirling Candy	noun	トワーリングキャンディ
 とーきーと	Tawqeet	noun	トーキート
+とーくおぶにゅーよーく	Talk Of New York	noun	トークオブニューヨーク
 とーせんすたーだむ	Tosen Stardom	noun	トーセンスターダム
 とーたるいんぱくと	Total Impact	noun	トータルインパクト
 とーたるぎゃらりー	Total Gallery	noun	トータルギャラリー
 とーなりすと	Tonalist	noun	トーナリスト
+とーねーどあらーと	Tornado Alert	noun	トーネードアラート
 どぅあいす	Duais	noun	ドゥアイス
 どぅいっとうぃずすたいる	Do It With Style	noun	ドゥイットウィズスタイル
 どぅぶりの	Dublino	noun	ドゥブリノ
@@ -3671,6 +3785,7 @@ reading	word	pos	japanese_form
 どごーるれーん	De Gaulle Lane	noun	ドゴールレーン
 どっくらんず	Docklands	noun	ドックランズ
 どっじ	Dodge	noun	ドッジ
+どっつぃー	Dotsy	noun	ドッツィー
 どっぺるげんがー	Doppelganger	noun	ドッペルゲンガー
 どなびおら	Donna Viola	noun	ドナビオラ
 どなびおら	Donna Viola (GB)	noun	ドナビオラ
@@ -3703,6 +3818,7 @@ reading	word	pos	japanese_form
 どらまてぃっくごーるど	Dramatic Gold	noun	ドラマティックゴールド
 どらむ	Drum	noun	ドラム
 どらむたっぷす	Drum Taps	noun	ドラムタップス
+どらむびーと	Drumbeat	noun	ドラムビート
 どりえます	Doriemus	noun	ドリエマス
 どりる	Drill	noun	ドリル
 どりーふぉんていん	Driefontein	noun	ドリーフォンテイン
@@ -3851,6 +3967,8 @@ reading	word	pos	japanese_form
 ねばーせいだい	Never Say Die	noun	ネバーセイダイ
 ねばーそーぶれいぶ	Never So Brave	noun	ネバーソーブレイブ
 ねばーそーぶれいゔ	Never So Brave	noun	ネバーソーブレイヴ
+ねばーそーぶれーぶ	Never So Brave	noun	ネバーソーブレーブ
+ねばーそーぶれーゔ	Never So Brave	noun	ネバーソーブレーヴ
 ねばーべんど	Never Bend	noun	ネバーベンド
 ねばーりとりーと	Never Retreat	noun	ネバーリトリート
 ねぶらすかとるねーど	Nebraska Tornado	noun	ネブラスカトルネード
@@ -3861,6 +3979,8 @@ reading	word	pos	japanese_form
 ねゔぁーせいだい	Never Say Die	noun	ネヴァーセイダイ
 ねゔぁーそーぶれいぶ	Never So Brave	noun	ネヴァーソーブレイブ
 ねゔぁーそーぶれいゔ	Never So Brave	noun	ネヴァーソーブレイヴ
+ねゔぁーそーぶれーぶ	Never So Brave	noun	ネヴァーソーブレーブ
+ねゔぁーそーぶれーゔ	Never So Brave	noun	ネヴァーソーブレーヴ
 ねゔぁーべんど	Never Bend	noun	ネヴァーベンド
 ねゔぁーりとりーと	Never Retreat	noun	ネヴァーリトリート
 ねーしょんずぷらいど	Nations Pride	noun	ネーションズプライド
@@ -3971,6 +4091,7 @@ reading	word	pos	japanese_form
 はびたっと	Habitat	noun	ハビタット
 はびび	Habibi	noun	ハビビ
 はびぶてぃ	Habibti	noun	ハビブティ
+はふなー	Haffner	noun	ハフナー
 はぶゆーごーんあうぇい	Haveyougoneaway	noun	ハブユーゴーンアウェイ
 はます	Hamas	noun	ハマス
 はやすぎ	Hayasugi	noun	ハヤスギ
@@ -4058,6 +4179,7 @@ reading	word	pos	japanese_form
 ばいんやーどへゔん	Vineyard Haven	noun	バインヤードヘヴン
 ばいゔぁはと	Beiwacht	noun	バイヴァハト
 ばうあんどでくれあ	Vow and Declare	noun	バウアンドデクレア
+ばうえこー	Bow Echo	noun	バウエコー
 ばうんでぃんぐ	Bounding	noun	バウンディング
 ばえざ	Baeza	noun	バエザ
 ばけあ	Vacare	noun	バケア
@@ -4101,6 +4223,7 @@ reading	word	pos	japanese_form
 ばらいえてぃくらぶ	Variety Club	noun	バライエティクラブ
 ばらきえる	Baraqiel	noun	バラキエル
 ばらきー	Barakey	noun	バラキー
+ばらきーる	Baraqiel	noun	バラキール
 ばらしあ	Barathea	noun	バラシア
 ばらぬーる	Valanour	noun	バラヌール
 ばらんしーん	Balanchine	noun	バランシーン
@@ -4166,7 +4289,9 @@ reading	word	pos	japanese_form
 ばーどすとーん	Birdstone	noun	バードストーン
 ばーどたうん	Bird Town	noun	バードタウン
 ばーどまん	Birdman	noun	バードマン
+ばーなばら	Barnavara	noun	バーナバラ
 ばーなむすくえあ	Burnham Square	noun	バーナムスクエア
+ばーなゔぁら	Barnavara	noun	バーナヴァラ
 ばーなーでぃに	Bernardini	noun	バーナーディニ
 ばーにんぐろーま	Burning Roma	noun	バーニングローマ
 ばーにーろい	Barney Roy	noun	バーニーロイ
@@ -4209,13 +4334,16 @@ reading	word	pos	japanese_form
 ぱでぃんとん	Paddington	noun	パディントン
 ぱとりっくえりん	Patrick Erin	noun	パトリックエリン
 ぱどれぽんす	Pas de Reponse	noun	パドレポンス
+ぱのわ	Panova	noun	パノワ
 ぱのーば	Panova	noun	パノーバ
 ぱのーゔぁ	Panova	noun	パノーヴァ
 ぱぴのー	Papineau	noun	パピノー
 ぱべる	Pavel	noun	パベル
 ぱらいしぱん	Palaisipan	noun	パライシパン
+ぱらじうむ	Palladium	noun	パラジウム
 ぱらだいすうっず	Paradise Woods	noun	パラダイスウッズ
 ぱらだいすくりーく	Paradise Creek	noun	パラダイスクリーク
+ぱらでぃうむ	Palladium	noun	パラディウム
 ぱらとぅるーぱーず	Paratroopers	noun	パラトゥルーパーズ
 ぱりすれーん	Paris Lane	noun	パリスレーン
 ぱりっしゅほーる	Parish Hall	noun	パリッシュホール
@@ -4251,6 +4379,7 @@ reading	word	pos	japanese_form
 ぱーじ	Purge	noun	パージ
 ぱーすえいしぶ	Persuasive	noun	パースエイシブ
 ぱーすえいしゔ	Persuasive	noun	パースエイシヴ
+ぱーそなる	Personal	noun	パーソナル
 ぱーそなるえんさいん	Personal Ensign	noun	パーソナルエンサイン
 ぱーそなるえんすん	Personal Ensign	noun	パーソナルエンスン
 ぱーそなるだいありー	Personal Diary	noun	パーソナルダイアリー
@@ -4303,8 +4432,10 @@ reading	word	pos	japanese_form
 ひーとしーかー	Heatseeker	noun	ヒートシーカー
 ひーとへいず	Heat Haze	noun	ヒートヘイズ
 ひーろー	Hero	noun	ヒーロー
+びあしすてぃな	Via Sistina	noun	ビアシスティナ
 びあしすてぃーな	Via Sistina	noun	ビアシスティーナ
 びあだーな	Viadana	noun	ビアダーナ
+びあでら	Viadera	noun	ビアデラ
 びあり	Vialli	noun	ビアリ
 びあんかねら	Bianca Nera	noun	ビアンカネラ
 びえなまど	Bienamado	noun	ビエナマド
@@ -4415,6 +4546,7 @@ reading	word	pos	japanese_form
 ぴっころ	Piccolo	noun	ピッコロ
 ぴっつぁびあんか	Pizza Bianca	noun	ピッツァビアンカ
 ぴっとかーん	Pitcairn	noun	ピットカーン
+ぴっぴー	Pippie	noun	ピッピー
 ぴなとぅぼ	Pinatubo	noun	ピナトゥボ
 ぴなれろ	Pinarello	noun	ピナレロ
 ぴにゃん	Pignan	noun	ピニャン
@@ -4447,6 +4579,7 @@ reading	word	pos	japanese_form
 ふぁいあざぐるーむ	Fire the Groom	noun	ファイアザグルーム
 ふぁいあばーん	Fireburn	noun	ファイアバーン
 ふぁいあぶれいく	Firebreak	noun	ファイアブレイク
+ふぁいあーぼーるみす	Fireball Miss	noun	ファイアーボールミス
 ふぁいざ	Faiza	noun	ファイザ
 ふぁいてぃんぐまっど	Fighting Mad	noun	ファイティングマッド
 ふぁいなるすこあ	Final Score	noun	ファイナルスコア
@@ -4505,6 +4638,8 @@ reading	word	pos	japanese_form
 ふぁーすとしーる	First Seal	noun	ファーストシール
 ふぁーすとでぃふぇんす	First Defence	noun	ファーストディフェンス
 ふぁーすとでゅーど	First Dude	noun	ファーストデュード
+ふぁーすとふぁいぶ	First Five	noun	ファーストファイブ
+ふぁーすとふぁいゔ	First Five	noun	ファーストファイヴ
 ふぁーぜすとらんど	Furthest Land	noun	ファーゼストランド
 ふぁーど	Fard	noun	ファード
 ふぁーなん	Farnan	noun	ファーナン
@@ -4512,6 +4647,7 @@ reading	word	pos	japanese_form
 ふぁーま	Pharma	noun	ファーマ
 ふぁーまうぇい	Farma Way	noun	ファーマウェイ
 ふぁーむすたんす	Firm Stance	noun	ファームスタンス
+ふぁーれんえんじぇる	Fallen Angel	noun	ファーレンエンジェル
 ふぁーろー	Furlough	noun	ファーロー
 ふぃあーすいんぱくと	Fierce Impact	noun	フィアースインパクト
 ふぃあーすねす	Fierceness	noun	フィアースネス
@@ -4546,6 +4682,7 @@ reading	word	pos	japanese_form
 ふぇあみっくす	Fair Mix	noun	フェアミックス
 ふぇあめいでん	Fair Maiden	noun	フェアメイデン
 ふぇありーきんぐ	Fairy King	noun	フェアリーキング
+ふぇありーぐれん	Fairy Glen	noun	フェアリーグレン
 ふぇありーぶりっじ	Fairy Bridge	noun	フェアリーブリッジ
 ふぇありーらんど	Fairyland	noun	フェアリーランド
 ふぇいばらぶるたーむず	Favourable Terms	noun	フェイバラブルタームズ
@@ -4568,6 +4705,7 @@ reading	word	pos	japanese_form
 ふぇにっくすりーち	Phoenix Reach	noun	フェニックスリーチ
 ふぇぶろーばー	Fev Rover	noun	フェブローバー
 ふぇぶろーゔぁー	Fev Rover	noun	フェブローヴァー
+ふぇみないる	Femminile	noun	フェミナイル
 ふぇみにーれ	Femminile	noun	フェミニーレ
 ふぇらんれでぃ	Phelan Ready	noun	フェランレディ
 ふぇるらっくす	Ferlax	noun	フェルラックス
@@ -4719,6 +4857,7 @@ reading	word	pos	japanese_form
 ぶっくれびゅー	Book Review	noun	ブックレビュー
 ぶっくれゔゅー	Book Review	noun	ブックレヴュー
 ぶっくんだんの	Book'em Danno	noun	ブックンダンノ
+ぶっけむだの	Book'em Danno	noun	ブッケムダノ
 ぶっしゅぱどれ	Bush Padre	noun	ブッシュパドレ
 ぶっしゅふぁいやー	Bushfire	noun	ブッシュファイヤー
 ぶっしゅれんじゃー	Bushranger	noun	ブッシュレンジャー
@@ -4831,6 +4970,7 @@ reading	word	pos	japanese_form
 ぷらいずどじぇむ	Prized Gem	noun	プライズドジェム
 ぷらいど	Pride	noun	プライド
 ぷらいどおぶじぇに	Pride Of Jenni	noun	プライドオブジェニ
+ぷらいどおぶじぇにー	Pride Of Jenni	noun	プライドオブジェニー
 ぷらいどおぶどばい	Pride Of Dubai	noun	プライドオブドバイ
 ぷらいべーとあい	Private Eye	noun	プライベートアイ
 ぷらいべーとすてぃあ	Private Steer	noun	プライベートスティア
@@ -4925,6 +5065,8 @@ reading	word	pos	japanese_form
 ぷれんてぃおぶらいと	Plenty of Light	noun	プレンティオブライト
 ぷれーとれっと	Platelet	noun	プレートレット
 ぷれーりーばいゆー	Prairie Bayou	noun	プレーリーバイユー
+ぷろきしまであ	Proxima Dea	noun	プロキシマデア
+ぷろきしまでぃあ	Proxima Dea	noun	プロキシマディア
 ぷろくしー	Proxy	noun	プロクシー
 ぷろくらめーしょん	Proclamation	noun	プロクラメーション
 ぷろぐらむとれーでぃんぐ	Program Trading	noun	プログラムトレーディング
@@ -4972,6 +5114,7 @@ reading	word	pos	japanese_form
 へくたーぷろてくたー	Hector Protector	noun	ヘクタープロテクター
 へっどうぇい	Headway	noun	ヘッドウェイ
 へっどたーなー	Headturner	noun	ヘッドターナー
+へっどりーぐれんじ	Headley Grange	noun	ヘッドリーグレンジ
 へにーひゅーず	Henny Hughes	noun	ヘニーヒューズ
 へねしー	Hennessy	noun	ヘネシー
 へぶんずあばぶ	Heavens Above	noun	ヘブンズアバブ
@@ -5029,6 +5172,7 @@ reading	word	pos	japanese_form
 べがす	Vegas	noun	ベガス
 べがまじっく	Vega Magic	noun	ベガマジック
 べがわん	Vega One	noun	ベガワン
+べくせいしゃす	Vexatious	noun	ベクセイシャス
 べくらっくす	Becrux	noun	ベクラックス
 べけっと	Beckett	noun	ベケット
 べこま	Vekoma	noun	ベコマ
@@ -5059,6 +5203,7 @@ reading	word	pos	japanese_form
 べねしあんさん	Venetian Sun	noun	ベネシアンサン
 べねちあんさん	Venetian Sun	noun	ベネチアンサン
 べねでった	Benedetta	noun	ベネデッタ
+べひーもす	Behemoth	noun	ベヒーモス
 べらざーの	Verrazano	noun	ベラザーノ
 べらそふぃあ	Bella Sofia	noun	ベラソフィア
 べらにぽてぃな	Bella Nipotina	noun	ベラニポティナ
@@ -5073,6 +5218,8 @@ reading	word	pos	japanese_form
 べるえせれぶる	Belle et Celebre	noun	ベルエセレブル
 べるぎゃらんてー	Belle Gallantey	noun	ベルギャランテー
 べるくれあ	Belclare	noun	ベルクレア
+べるしぇばる	Belle Cheval	noun	ベルシェバル
+べるしぇゔぁる	Belle Cheval	noun	ベルシェヴァル
 べるしゅばる	Belle Cheval	noun	ベルシュバル
 べるしゅゔぁる	Belle Cheval	noun	ベルシュヴァル
 べるじぇんぬ	Vergennes	noun	ベルジェンヌ
@@ -5142,6 +5289,7 @@ reading	word	pos	japanese_form
 ほいっするじゃけっと	Whistlejacket	noun	ホイッスルジャケット
 ほすと	Host	noun	ホスト
 ほたずへる	Hotazhell	noun	ホタズヘル
+ほたぜる	Hotazhell	noun	ホタゼル
 ほたつぇる	Hotazhell	noun	ホタツェル
 ほっぐくりーくはっする	Hog Creek Hustle	noun	ホッグクリークハッスル
 ほっときんぐぷろーん	Hot King Prawn	noun	ホットキングプローン
@@ -5151,6 +5299,7 @@ reading	word	pos	japanese_form
 ほっとでにっしゅ	Hot Danish	noun	ホットデニッシュ
 ほっとろっどちゃーりー	Hot Rod Charlie	noun	ホットロッドチャーリー
 ほっぱーちゅにてぃ	Hoppertunity	noun	ホッパーチュニティ
+ほっほけーにひ	Hochkonig	noun	ホッホケーニヒ
 ほてるぐらんど	Hotel Grand	noun	ホテルグランド
 ほらー	Holler	noun	ホラー
 ほれいしょねるそん	Horatio Nelson	noun	ホレイショネルソン
@@ -5179,6 +5328,7 @@ reading	word	pos	japanese_form
 ほーむすうぃーとあすぺん	Home Sweet Aspen	noun	ホームスウィートアスペン
 ほーむずまん	Homesman	noun	ホームズマン
 ほーむぼーいくりす	Homeboykris	noun	ホームボーイクリス
+ほーむれすそんぐす	Homeless Songs	noun	ホームレスソングス
 ほーりんぐ	Halling	noun	ホーリング
 ほーりーぐれいる	Holy Grail	noun	ホーリーグレイル
 ほーりーぶる	Holy Bull	noun	ホーリーブル
@@ -5262,8 +5412,12 @@ reading	word	pos	japanese_form
 ぽいんつおふざべんち	Points Offthebench	noun	ポインツオフザベンチ
 ぽいんとあしゅりー	Point Ashley	noun	ポイントアシュリー
 ぽいんとおぶえんとりー	Point of Entry	noun	ポイントオブエントリー
+ぽいんとおぶろう	Point Of Law	noun	ポイントオブロウ
+ぽいんとおぶろー	Point Of Law	noun	ポイントオブロー
 ぽいんとぎぶん	Point Given	noun	ポイントギブン
 ぽいんとぎゔん	Point Given	noun	ポイントギヴン
+ぽいんとばろう	Point Barrow	noun	ポイントバロウ
+ぽいんとばろー	Point Barrow	noun	ポイントバロー
 ぽいんとみーばい	Point Me By	noun	ポイントミーバイ
 ぽうなむ	Pounamu	noun	ポウナム
 ぽえっつぼいす	Poet's Voice	noun	ポエッツボイス
@@ -5298,6 +5452,7 @@ reading	word	pos	japanese_form
 ぽんぺい	Pompeii	noun	ポンペイ
 ぽんぺいるーらー	Pompeii Ruler	noun	ポンペイルーラー
 ぽーたふぉーちゅな	Porta Fortuna	noun	ポータフォーチュナ
+ぽーとふぉりおでゅれいしょん	Portfolio Duration	noun	ポートフォリオデュレイション
 ぽーとふぉりおでゅれーしょん	Portfolio Duration	noun	ポートフォリオデュレーション
 ぽーとらんどしんが	Portland Singa	noun	ポートランドシンガ
 ぽーとらんどすかい	Portland Sky	noun	ポートランドスカイ
@@ -5347,6 +5502,7 @@ reading	word	pos	japanese_form
 まいんどゆあびすけっつ	Mind Your Biscuits	noun	マインドユアビスケッツ
 まうぃんご	Mawingo	noun	マウィンゴ
 まうんてんはい	Mountain High	noun	マウンテンハイ
+まうんとあとらす	Mount Atlas	noun	マウントアトラス
 まうんとささふら	Mt. Sassafras	noun	マウントササフラ
 まうんとねるそん	Mount Nelson	noun	マウントネルソン
 まかいびーでぃーば	Makybe Diva	noun	マカイビーディーバ
@@ -5366,6 +5522,7 @@ reading	word	pos	japanese_form
 まぐなむふぉーす	Magnum Force	noun	マグナムフォース
 まぐなむむーん	Magnum Moon	noun	マグナムムーン
 まぐにちゅーど	Magnitude	noun	マグニチュード
+まぐにてゅーど	Magnitude	noun	マグニテュード
 まぐにふぃじお	Magnifisio	noun	マグニフィジオ
 まぐにふぃせんとそんぐ	Magnificent Song	noun	マグニフィセントソング
 まぐわいあ	Maguire	noun	マグワイア
@@ -5395,6 +5552,7 @@ reading	word	pos	japanese_form
 ますいふ	Mus-If	noun	マスイフ
 ますうぃざーど	Math Wizard	noun	マスウィザード
 ますかるぽーね	Mascarpone	noun	マスカルポーネ
+ますくどくるせいだー	Masked Crusader	noun	マスクドクルセイダー
 ますくどまーべる	Masked Marvel	noun	マスクドマーベル
 ますくどまーゔぇる	Masked Marvel	noun	マスクドマーヴェル
 ますたりー	Mastery	noun	マスタリー
@@ -5404,6 +5562,7 @@ reading	word	pos	japanese_form
 ますたーおぶでざいん	Master of Design	noun	マスターオブデザイン
 ますたーくらふつまん	Mastercraftsman	noun	マスタークラフツマン
 ますたーまいんでぃっど	Master Minded	noun	マスターマインディッド
+ますたーまん	Master Man	noun	マスターマン
 ますととらっく	Mast Track	noun	マストトラック
 ますめでぃあ	Mass Media	noun	マスメディア
 まず	Mazu	noun	マズ
@@ -5474,6 +5633,7 @@ reading	word	pos	japanese_form
 まるーふぃてぃ	Maroofity	noun	マルーフィティ
 まれおーすとらりす	Mare Australis	noun	マレオーストラリス
 まれく	Malek	noun	マレク
+まろーな	Marhoona	noun	マローナ
 まんぐすてぃーぬ	Mangoustine	noun	マングスティーヌ
 まんぐーす	Mongoose	noun	マングース
 まんごすちん	Mangoustine	noun	マンゴスチン
@@ -5527,11 +5687,13 @@ reading	word	pos	japanese_form
 みじゅびりー	Mi Jubilee	noun	ミジュビリー
 みすあれっじど	Miss Alleged	noun	ミスアレッジド
 みすあんどれってぃ	Miss Andretti	noun	ミスアンドレッティ
+みすいぇちゃんす	Miss Yechance	noun	ミスイェチャンス
 みすえーにょ	Mi Sueno	noun	ミスエーニョ
 みすかばーがーる	Miss Cover Girl	noun	ミスカバーガール
 みすかゔぁーがーる	Miss Cover Girl	noun	ミスカヴァーガール
 みすきーぷせいく	Miss Keepsake	noun	ミスキープセイク
 みすけらー	Miss Keller	noun	ミスケラー
+みすすこっと	Miss Scott	noun	ミススコット
 みすせれんでぃぴてぃ	Miss Serendipity	noun	ミスセレンディピティ
 みすたーくいっきー	Mr Quickie	noun	ミスタークイッキー
 みすたーさんどぐろーぱー	Mr Sandgroper	noun	ミスターサンドグローパー
@@ -5573,11 +5735,13 @@ reading	word	pos	japanese_form
 みすまっち	Miss Match	noun	ミスマッチ
 みすもすまん	Miss Mossman	noun	ミスモスマン
 みすもにか	Miss Monica	noun	ミスモニカ
+みすよーだ	Miss Yoda	noun	ミスヨーダ
 みすらがでぃあん	Miss Raggedy Ann	noun	ミスラガディアン
 みすりめんばーど	Misremembered	noun	ミスリメンバード
 みすりんだ	Miss Linda	noun	ミスリンダ
 みするきゃっと	Mistle Cat	noun	ミスルキャット
 みすろーれん	Miss Loren	noun	ミスローレン
+みすわいちゃんす	Miss Yechance	noun	ミスワイチャンス
 みすわき	Miswaki	noun	ミスワキ
 みすわーるど	Miss World	noun	ミスワールド
 みずでぃれくしょん	Mizdirection	noun	ミズディレクション
@@ -5602,10 +5766,12 @@ reading	word	pos	japanese_form
 みっどないとるーと	Midnight Lute	noun	ミッドナイトルート
 みどうぶりーず	Meadow Breeze	noun	ミドウブリーズ
 みなるでぃ	Minardi	noun	ミナルディ
+みなれっとすてーしょん	Minaret Station	noun	ミナレットステーション
 みにーほーく	Minnie Hauk	noun	ミニーホーク
 みねらいんど	Minella Indo	noun	ミネラインド
 みのれっと	Minorette	noun	ミノレット
 みゅりきん	Mullikin	noun	ミュリキン
+みゅーじかるたいむず	Musical Times	noun	ミュージカルタイムズ
 みゅーじかるちゃいむず	Musical Chimes	noun	ミュージカルチャイムズ
 みゅーじかるろまんす	Musical Romance	noun	ミュージカルロマンス
 みゅーじっくしょー	Music Show	noun	ミュージックショー
@@ -5641,6 +5807,7 @@ reading	word	pos	japanese_form
 むすたしゅりー	Mustashry	noun	ムスタシュリー
 むたくでぃむ	Mutakddim	noun	ムタクディム
 むたふぁーうえく	Mutafaweq	noun	ムタファーウエク
+むたまきな	Mutamakina	noun	ムタマキナ
 むたまむ	Mutamam	noun	ムタマム
 むねもしゅね	Mnemosyne	noun	ムネモシュネ
 むねもしん	Mnemosyne	noun	ムネモシン
@@ -5696,6 +5863,7 @@ reading	word	pos	japanese_form
 めっけ	Mecke	noun	メッケ
 めっぞそぷらの	Mezzo Soprano	noun	メッゾソプラノ
 めておすとーむ	Meteor Storm	noun	メテオストーム
+めでぃああわーど	Media Award	noun	メディアアワード
 めでぃあせんせーしょん	Media Sensation	noun	メディアセンセーション
 めでぃあぱずる	Media Puzzle	noun	メディアパズル
 めでぃしあん	Medicean	noun	メディシアン
@@ -5806,6 +5974,7 @@ reading	word	pos	japanese_form
 やんふぇるめーる	Jan Vermeer	noun	ヤンフェルメール
 やんぶりゅーげる	Jan Brueghel	noun	ヤンブリューゲル
 やんゔぇるめーる	Jan Vermeer	noun	ヤンヴェルメール
+やーにんぐ	Yearning	noun	ヤーニング
 ゆあそんぐ	Your Song	noun	ユアソング
 ゆあでぃーる	Yourdeel	noun	ユアディール
 ゆに	Uni	noun	ユニ
@@ -5821,6 +5990,10 @@ reading	word	pos	japanese_form
 ゆー	You	noun	ユー
 ゆーあんどあい	You and I	noun	ユーアンドアイ
 ゆーあーそーすりりんぐ	Youresothrilling	noun	ユーアーソースリリング
+ゆーえすえすばらー	U. S. S. Valor	noun	ユーエスエスバラー
+ゆーえすえすべいらー	U. S. S. Valor	noun	ユーエスエスベイラー
+ゆーえすえすゔぁらー	U. S. S. Valor	noun	ユーエスエスヴァラー
+ゆーえすえすゔぇいらー	U. S. S. Valor	noun	ユーエスエスヴェイラー
 ゆーえすねいびーふらっぐ	US Navy Flag	noun	ユーエスネイビーフラッグ
 ゆーえすねいゔぃーふらっぐ	US Navy Flag	noun	ユーエスネイヴィーフラッグ
 ゆーごっととぅみー	You Got To Me	noun	ユーゴットトゥミー
@@ -5833,10 +6006,12 @@ reading	word	pos	japanese_form
 ゆーわんぐ	You Wahng	noun	ユーワング
 ようせい	Yosei	noun	ヨウセイ
 よしだ	Yoshida	noun	ヨシダ
+よはねす	Johannes	noun	ヨハネス
 よはねすふぇるめーる	Johannes Vermeer	noun	ヨハネスフェルメール
 よはねすぶるぐ	Johannesburg	noun	ヨハネスブルグ
 よはねすゔぇるめーる	Johannes Vermeer	noun	ヨハネスヴェルメール
 よはんくらいふ	Johan Cruyff	noun	ヨハンクライフ
+よんかー	Jonker	noun	ヨンカー
 らいあ	Lyre	noun	ライア
 らいあふぁん	Ryafan	noun	ライアファン
 らいあんまーく	Ryan Mark	noun	ライアンマーク
@@ -5870,8 +6045,10 @@ reading	word	pos	japanese_form
 らうんどてーぶる	Round Table	noun	ラウンドテーブル
 らうんどぽんど	Round Pond	noun	ラウンドポンド
 らかざる	Lacazar	noun	ラカザル
+らから	La Cara	noun	ラカラ
 らかーら	La Cara	noun	ラカーラ
 らがのあ	Laganore	noun	ラガノア
+らきゃら	La Cara	noun	ラキャラ
 らきーん	Rakeen	noun	ラキーン
 らくからちゃ	La Cucaracha	noun	ラクカラチャ
 らくてぃ	Rakti	noun	ラクティ
@@ -5897,6 +6074,7 @@ reading	word	pos	japanese_form
 らすとたいくーん	Last Tycoon	noun	ラストタイクーン
 らすとふるめじゃー	Last Full Measure	noun	ラストフルメジャー
 らすめになす	Las Meninas	noun	ラスメニナス
+らずら	Lazzura	noun	ラズラ
 らずーら	Lazzura	noun	ラズーラ
 らせてぃんぐ	Russeting	noun	ラセティング
 らっかりお	Laccario	noun	ラッカリオ
@@ -5961,6 +6139,8 @@ reading	word	pos	japanese_form
 らむるま	Ramruma	noun	ラムルマ
 らもんてぃ	Ramonti	noun	ラモンティ
 ららあ	Laragh	noun	ララア
+ららあんちぽわ	Lara Antipova	noun	ララアンチポワ
+ららあんちぽゔぁ	Lara Antipova	noun	ララアンチポヴァ
 らりす	Ralis	noun	ラリス
 らりーざれじぇんど	Larry the Legend	noun	ラリーザレジェンド
 らんかすたーぼんばー	Lancaster Bomber	noun	ランカスターボンバー
@@ -6059,6 +6239,8 @@ reading	word	pos	japanese_form
 りどぱれす	Lido Palace	noun	リドパレス
 りなみっくす	Linamix	noun	リナミックス
 りばーきーん	River Keen	noun	リバーキーン
+りばーたっど	Libertad	noun	リバータッド
+りばーたんご	Libertango	noun	リバータンゴ
 りばーだんさー	River Dancer	noun	リバーダンサー
 りばーばーどん	River Verdon	noun	リバーバードン
 りばーふらいやー	River Flyer	noun	リバーフライヤー
@@ -6079,7 +6261,9 @@ reading	word	pos	japanese_form
 りぶちぇすたー	Ribchester	noun	リブチェスター
 りぶりさぶりーず	Librisa Breeze	noun	リブリサブリーズ
 りぶれてぃすと	Librettist	noun	リブレティスト
+りぶん	Ruthven	noun	リブン
 りべっと	Rivet	noun	リベット
+りべるたんご	Libertango	noun	リベルタンゴ
 りべるたー	Libertad	noun	リベルター
 りべれんす	Reverence	noun	リベレンス
 りべれーたー	Liberator	noun	リベレーター
@@ -6131,6 +6315,7 @@ reading	word	pos	japanese_form
 りゔいんざどりーむ	Live In The Dream	noun	リヴインザドリーム
 りゔぇっと	Rivet	noun	リヴェット
 りゔぇれんす	Reverence	noun	リヴェレンス
+りゔん	Ruthven	noun	リヴン
 りー	Lea	noun	リー
 りーがりーれでぃ	Regally Ready	noun	リーガリーレディ
 りーがるくろーな	Regal Krona	noun	リーガルクローナ
@@ -6146,6 +6331,7 @@ reading	word	pos	japanese_form
 りーだーしっぷ	Leadership	noun	リーダーシップ
 りーでぃんぐちぇんじ	Leading Change	noun	リーディングチェンジ
 りーでぃんぐらいと	Leading Light	noun	リーディングライト
+りーどあーちすと	Lead Artist	noun	リードアーチスト
 りーどあーてぃすと	Lead Artist	noun	リードアーティスト
 りーふすけーぷ	Reefscape	noun	リーフスケープ
 りーふらんなー	Reef Runner	noun	リーフランナー
@@ -6302,12 +6488,14 @@ reading	word	pos	japanese_form
 れでぃおれりあ	Lady Aurelia	noun	レディオレリア
 れでぃおーれりあ	Lady Aurelia	noun	レディオーレリア
 れでぃかーら	Lady Carla	noun	レディカーラ
+れでぃしぇなんどあ	Lady Shenandoah	noun	レディシェナンドア
 れでぃしぇなんどー	Lady Shenandoah	noun	レディシェナンドー
 れでぃじょあん	Lady Joanne	noun	レディジョアン
 れでぃたっく	Lady Tak	noun	レディタック
 れでぃぷらんさろっと	Lady Prancealot	noun	レディプランサロット
 れでぃぼうそーぷ	Lady Bowthorpe	noun	レディボウソープ
 れでぃらぐな	Lady Laguna	noun	レディラグナ
+れでぃーしぇなんどー	Lady Shenandoah	noun	レディーシェナンドー
 れでぃーすぱいつぴあ	Lady Speightspeare	noun	レディースパイツピア
 れでぃーすふぁーすと	Ladies First	noun	レディースファースト
 れでぃーすまん	Ladies Man	noun	レディースマン
@@ -6329,6 +6517,7 @@ reading	word	pos	japanese_form
 れべりん	Rebelline	noun	レベリン
 れべる	Rebel	noun	レベル
 れべるすろまんす	Rebel's Romance	noun	レベルスロマンス
+れべるずろまんす	Rebel's Romance	noun	レベルズロマンス
 れべるでいん	Rebel Dane	noun	レベルデイン
 れべるれいだー	Rebel Raider	noun	レベルレイダー
 れべんでぃ	Levendi	noun	レベンディ
@@ -6358,6 +6547,7 @@ reading	word	pos	japanese_form
 ろいやるあんせむ	Royal Anthem	noun	ロイヤルアンセム
 ろいやるいんでぃ	Royal Indy	noun	ロイヤルインディ
 ろいやるしゅぷれましー	Royal Supremacy	noun	ロイヤルシュプレマシー
+ろいやるすぷれましー	Royal Supremacy	noun	ロイヤルスプレマシー
 ろいやるだいやもんど	Royal Diamond	noun	ロイヤルダイヤモンド
 ろいやるちゃりおっと	Royal Chariot	noun	ロイヤルチャリオット
 ろいやるでぃせんと	Royal Descent	noun	ロイヤルディセント
@@ -6384,6 +6574,7 @@ reading	word	pos	japanese_form
 ろしあんれゔぉりゅーしょん	Russian Revolution	noun	ロシアンレヴォリューション
 ろしーまうす	Lossiemouth	noun	ロシーマウス
 ろじしゃん	Logician	noun	ロジシャン
+ろすあんじぇるす	Los Angeles	noun	ロスアンジェルス
 ろすあんぜるす	Los Angeles	noun	ロスアンゼルス
 ろすかー	Roscar	noun	ロスカー
 ろすでゅくいーん	Rosdhu Queen	noun	ロスデュクイーン
@@ -6424,6 +6615,7 @@ reading	word	pos	japanese_form
 ろまんすいずだいあん	Romance Is Diane	noun	ロマンスイズダイアン
 ろまんちっくうぉりあー	Romantic Warrior	noun	ロマンチックウォリアー
 ろまんちっくたっち	Romantic Touch	noun	ロマンチックタッチ
+ろまんちっくぷろぽーざる	Romantic Proposal	noun	ロマンチックプロポーザル
 ろまんてぃか	Romantica	noun	ロマンティカ
 ろまんてぃっくびじょん	Romantic Vision	noun	ロマンティックビジョン
 ろまんてぃっくゔぃじょん	Romantic Vision	noun	ロマンティックヴィジョン
@@ -6581,8 +6773,10 @@ reading	word	pos	japanese_form
 ゔぁーば	Vahva	noun	ヴァーバ
 ゔぁーばるでくすてりてぃ	Verbal Dexterity	noun	ヴァーバルデクステリティ
 ゔぁーゔぁ	Vahva	noun	ヴァーヴァ
+ゔぃあしすてぃな	Via Sistina	noun	ヴィアシスティナ
 ゔぃあしすてぃーな	Via Sistina	noun	ヴィアシスティーナ
 ゔぃあだーな	Viadana	noun	ヴィアダーナ
+ゔぃあでら	Viadera	noun	ヴィアデラ
 ゔぃあり	Vialli	noun	ヴィアリ
 ゔぃくいすと	Vequist	noun	ヴィクイスト
 ゔぃくたーくーりー	Victor Cooley	noun	ヴィクタークーリー
@@ -6635,6 +6829,7 @@ reading	word	pos	japanese_form
 ゔぇがす	Vegas	noun	ヴェガス
 ゔぇがまじっく	Vega Magic	noun	ヴェガマジック
 ゔぇがわん	Vega One	noun	ヴェガワン
+ゔぇくせいしゃす	Vexatious	noun	ヴェクセイシャス
 ゔぇこま	Vekoma	noun	ヴェコマ
 ゔぇすぱ	Vespa	noun	ヴェスパ
 ゔぇすぽん	Vespone	noun	ヴェスポン
