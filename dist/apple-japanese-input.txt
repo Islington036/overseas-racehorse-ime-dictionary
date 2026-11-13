@@ -65,6 +65,7 @@
 あくしでんたるえーじぇんと,"Accidental Agent",普通名詞
 あくしょんでぃすでい,"Action This Day",普通名詞
 あくせられーと,Accelerate,普通名詞
+あくとわん,"Act One",普通名詞
 あくらめいしょん,Acclamation,普通名詞
 あくらめーしょん,Acclamation,普通名詞
 あくらーむ,Aqlaam,普通名詞
@@ -313,6 +314,7 @@
 あるふれっどのーべる,"Alfred Nobel",普通名詞
 あるぶーむふぉと,"Al Boum Photo",普通名詞
 あるぷらいど,Alpride,普通名詞
+あるべるとじゃこめってぃ,"Alberto Giacometti",普通名詞
 あるぺんろーぜ,"Alpine Rose",普通名詞
 あるぼらーだ,Alborada,普通名詞
 あるぼれあ,Arborea,普通名詞
@@ -468,6 +470,7 @@
 あーべい,Ave,普通名詞
 あーべいん,Urbane,普通名詞
 あーまいん,Ermine,普通名詞
+あーみじゃー,Armiger,普通名詞
 あーみーみゅーる,"Army Mule",普通名詞
 あーむすとろんぐ,Armstrong,普通名詞
 あーりんとんろーど,"Arlington Road",普通名詞
@@ -492,6 +495,7 @@
 いきーとす,Iquitos,普通名詞
 いくたまる,Iktamal,普通名詞
 いぐざじぇれーたー,Exaggerator,普通名詞
+いぐじっととぅのーうぇあ,"Exit to Nowhere",普通名詞
 いぐれしあ,Iglesia,普通名詞
 いけずどりーむ,"Ike's Dream",普通名詞
 いこらいず,Equalize,普通名詞
@@ -522,6 +526,7 @@
 いぶにんぐあたいあ,"Evening Attire",普通名詞
 いぶにんぐじゅえる,"Evening Jewel",普通名詞
 いぶんはるどぅーん,"Ibn Khaldun",普通名詞
+いぶんべい,"Ibn Bey",普通名詞
 いべろ,Ibero,普通名詞
 いまじにんぐ,Imagining,普通名詞
 いまじん,Imagine,普通名詞
@@ -543,10 +548,12 @@
 いるーしぶうぇーゔ,"Elusive Wave",普通名詞
 いるーしぶくおりてぃ,"Elusive Quality",普通名詞
 いるーしぶけいと,"Elusive Kate",普通名詞
+いるーしぶしてぃ,"Elusive City",普通名詞
 いるーしゔうぇーぶ,"Elusive Wave",普通名詞
 いるーしゔうぇーゔ,"Elusive Wave",普通名詞
 いるーしゔくおりてぃ,"Elusive Quality",普通名詞
 いるーしゔけいと,"Elusive Kate",普通名詞
+いるーしゔしてぃ,"Elusive City",普通名詞
 いれいと,Elate,普通名詞
 いれじん,Iresine,普通名詞
 いんあわーたいむ,"In Our Time",普通名詞
@@ -633,6 +640,7 @@
 いんぺりあるじぇすちゃー,"Imperial Gesture",普通名詞
 いんぺりあるだんさー,"Imperial Dancer",普通名詞
 いんぺりあるひんと,"Imperial Hint",普通名詞
+いんぺりあるびゅーてぃー,"Imperial Beauty",普通名詞
 いんぺりあるもなーく,"Imperial Monarch",普通名詞
 いんぺんでぃんぐ,Impending,普通名詞
 いんらぶ,"In Love",普通名詞
@@ -659,6 +667,7 @@
 いーすたんえこー,"Eastern Echo",普通名詞
 いーすとあべにゅー,"East Avenue",普通名詞
 いーすとあゔぇにゅー,"East Avenue",普通名詞
+いーすとおぶざむーん,"East of the Moon",普通名詞
 いーたじぇーむず,"Etah James",普通名詞
 いーだ,Eda,普通名詞
 いーでんずむーん,"Eden's Moon",普通名詞
@@ -713,12 +722,14 @@
 うぃーぷのーもあ,"Weep No More",普通名詞
 うぃーみすあーてぃ,"We Miss Artie",普通名詞
 うぃーみすふらんきー,Weemissfrankie,普通名詞
+うぃーむずばいと,"Wemyss Bight",普通名詞
 ういずあんてぃしぺいしょん,"With Anticipation",普通名詞
 ういんぐすおぶいーぐるす,"Wings Of Eagles",普通名詞
 ういんどいんはーへあ,"Wind in Her Hair",普通名詞
 ういんどいんはーへあー,"Wind in Her Hair",普通名詞
 ういんどすとーす,Windstoss,普通名詞
 ういーくえんどさぷらいず,"Weekend Surprise",普通名詞
+うぇあおあうぇん,"Where or When",普通名詞
 うぇいおぶらいと,"Way of Light",普通名詞
 うぇいくふぉれすと,"Wake Forest",普通名詞
 うぇいずあんどみーんず,"Ways and Means",普通名詞
@@ -791,6 +802,7 @@
 うらのば,Ulanova,普通名詞
 うらのゔぁ,Ulanova,普通名詞
 うるとら,Ultra,普通名詞
+うるふはうんど,Wolfhound,普通名詞
 うんがろ,Ungaro,普通名詞
 うーごふぉすころ,"Ugo Foscolo",普通名詞
 うーしゃ,Usha,普通名詞
@@ -933,6 +945,8 @@
 えふぃねっくす,Effinex,普通名詞
 えぶろりばー,"Ebro River",普通名詞
 えぶろりゔぁー,"Ebro River",普通名詞
+えぺるびえぶるー,"Epervier Bleu",普通名詞
+えぺるゔぃえぶるー,"Epervier Bleu",普通名詞
 えぼにーぐろーぶ,"Ebony Grosve",普通名詞
 えぼにーぐろーゔ,"Ebony Grosve",普通名詞
 えぽれっと,Epaulette,普通名詞
@@ -1111,6 +1125,7 @@
 おれごんぱわー,"Oregon Power",普通名詞
 おれんじかうんてぃ,"Orange County",普通名詞
 おんえあ,"On Air",普通名詞
+おんざばぶるず,"On The Bubbles",普通名詞
 おんざろっくす,"On The Rocks",普通名詞
 おんふぁいあべいびー,"On Fire Baby",普通名詞
 おんぶずまん,Ombudsman,普通名詞
@@ -1128,6 +1143,7 @@
 おーしゃんろーど,"Ocean Road",普通名詞
 おーじーるーるず,"Aussie Rules",普通名詞
 おーす,Oath,普通名詞
+おーすとらりあ,Australia,普通名詞
 おーせんてぃっく,Authentic,普通名詞
 おーせんてぃっくぱでぃ,"Authentic Paddy",普通名詞
 おーそどっくす,Orthodox,普通名詞
@@ -1153,6 +1169,7 @@
 おーぺん,Orpen,普通名詞
 おーほぺうぃんず,"Ohope Wins",普通名詞
 おーほわっとあうぃんどふぉーる,"Oh What a Windfall",普通名詞
+おーるあとしー,"All At Sea",普通名詞
 おーるあめりかん,"All American",普通名詞
 おーるあわーもぶ,"All Our Mob",普通名詞
 おーるうぇいずあくらしっく,"Always a Classic",普通名詞
@@ -1172,6 +1189,7 @@
 おーゔぁーあならいず,Overanalyze,普通名詞
 おーゔぁーぱす,Overpass,普通名詞
 おーゔぁーりーち,Overreach,普通名詞
+かいたの,Caitano,普通名詞
 かいとさーふ,Kitesurf,普通名詞
 かいんどおぶぶるー,"Kind of Blue",普通名詞
 かいんらいじんぐ,"Ka Ying Rising",普通名詞
@@ -1204,6 +1222,7 @@
 かたらんおーぷにんぐ,"Catalan Opening",普通名詞
 かたりすと,Catalyst,普通名詞
 かっとざけーき,"Cut The Cake",普通名詞
+かっとらすべい,"Cutlass Bay",普通名詞
 かてぃんか,Catinca,普通名詞
 かてぃんまりっさ,Kathynmarissa,普通名詞
 かとりっくぼーい,"Catholic Boy",普通名詞
@@ -1219,6 +1238,7 @@
 かふぇらて,"Caffe Latte",普通名詞
 かぷらてんぷとれす,"Capla Temptress",普通名詞
 かぷり,Capri,普通名詞
+かぷりっちょーさ,Capricciosa,普通名詞
 かぽばすとーね,"Capo Bastone",普通名詞
 かぽーてぃ,Capote,普通名詞
 かぽーてべる,"Capote Belle",普通名詞
@@ -1254,6 +1274,11 @@
 かりふぉるにあめもりー,"California Memory",普通名詞
 かりぷそ,Kalypso,普通名詞
 かりーなみあ,"Carina Mia",普通名詞
+かるけび,Khalkevi,普通名詞
+かるけゔぃ,Khalkevi,普通名詞
+かるたじゃな,Kartajana,普通名詞
+かるちゃーばるちゃー,"Culture Vulture",普通名詞
+かるちゃーゔぁるちゃー,"Culture Vulture",普通名詞
 かるどぅねびー,Kaldounevees,普通名詞
 かるどぅねべ,Kaldounevees,普通名詞
 かるどぅねゔぃー,Kaldounevees,普通名詞
@@ -1308,7 +1333,9 @@
 かーまらす,"Kahma Lass",普通名詞
 かーららふぁえら,"Cara Rafaela",普通名詞
 かーりあん,Caerleon,普通名詞
+かーりな,Caerlina,普通名詞
 かーりん,Curlin,普通名詞
+かーりんぐ,Carling,普通名詞
 かーるすぱくらー,"Carl Spackler",普通名詞
 かーるすぱっくらー,"Carl Spackler",普通名詞
 かーん,Khan,普通名詞
@@ -1359,7 +1386,9 @@
 きすてな,Kistena,普通名詞
 きたるふぁ,Kitalpha,普通名詞
 きっけんくりす,"Kicken Kris",普通名詞
+きっしんくりす,"Kissin Kris",普通名詞
 きっしんぐかずん,"Kissing Cousin",普通名詞
+きっとうっど,Kitwood,普通名詞
 きっぷでびる,"Kip Deville",普通名詞
 きっぷでゔぃる,"Kip Deville",普通名詞
 きとぅんずじょい,"Kitten's Joy",普通名詞
@@ -1386,6 +1415,7 @@
 きゃっちー,Catchy,普通名詞
 きゃっつくれいどる,"Cat's Cradle",普通名詞
 きゃっとしーふ,"Cat Thief",普通名詞
+きゃっとばーど,Catbird,普通名詞
 きゃっとむーぶす,"Cat Moves",普通名詞
 きゃっとむーゔす,"Cat Moves",普通名詞
 きゃっぷふぇら,"Cap Ferrat",普通名詞
@@ -1439,12 +1469,12 @@
 きるうぃん,Kilwin,普通名詞
 きんぐおぶきんぐす,"King of Kings",普通名詞
 きんぐおぶごすふぉーど,"King Of Gosford",普通名詞
-きんぐおぶごーるど,"King Of Gosford",普通名詞
 きんぐおぶざひーぷ,"King of the Heap",普通名詞
 きんぐおぶすてぃーる,"King Of Steel",普通名詞
 きんぐおぶちぇんじ,"King of Change",普通名詞
 きんぐころらど,"King Colorado",普通名詞
 きんぐごーるど,"King Gold",普通名詞
+きんぐしゃるるまーにゅ,"King Charlemagne",普通名詞
 きんぐすうぃるどりーむ,"Kings Will Dream",普通名詞
 きんぐすうっど,Kingswood,普通名詞
 きんぐすげーとねいてぃぶ,"Kingsgate Native",普通名詞
@@ -1519,6 +1549,7 @@
 くえすとふぉーもあ,"Quest For More",普通名詞
 くえまん,Queman,普通名詞
 くえらり,Querari,普通名詞
+くぉーたーむーん,"Quarter Moon",普通名詞
 くおりてぃろーど,"Quality Road",普通名詞
 くおりふぁい,Qualify,普通名詞
 くおると,Quorto,普通名詞
@@ -1602,9 +1633,12 @@
 くろーる,Crawl,普通名詞
 くろーん,Krone,普通名詞
 くわいえっとあめりかん,"Quiet American",普通名詞
+くわいえっとりぞるぶ,"Quiet Resolve",普通名詞
+くわいえっとりぞるゔ,"Quiet Resolve",普通名詞
 くわいえっとりふれくしょん,"Quiet Reflection",普通名詞
 くーじーうぉーく,"Coogee Walk",普通名詞
 くーどぅふぉりー,"Coup de Folie",普通名詞
+くーどじぇにー,"Coup de Genie",普通名詞
 くーどす,Kudos,普通名詞
 くーどふぉりー,"Coup de Folie",普通名詞
 くーぷどふぉりー,"Coup de Folie",普通名詞
@@ -1801,6 +1835,7 @@
 こべんてぃなべい,"Coventina Bay",普通名詞
 こまんず,Commands,普通名詞
 こまんだーいんちーふ,"Commander In Chief",普通名詞
+こまんだーこりんず,"Commander Collins",普通名詞
 こまんちぇぶれーぶ,"Comanche Brave",普通名詞
 こまんちぇぶれーゔ,"Comanche Brave",普通名詞
 こまんちぶれいぶ,"Comanche Brave",普通名詞
@@ -1845,6 +1880,7 @@
 こんすてれーしょん,Constellation,普通名詞
 こんせんさす,Consensus,普通名詞
 こんせんと,Consent,普通名詞
+こんそりでーたー,Consolidator,普通名詞
 こんてぃにゅあす,Continuous,普通名詞
 こんてぃにゅあすりー,Continuously,普通名詞
 こんてすてぃっど,Contested,普通名詞
@@ -1947,6 +1983,7 @@
 ごーるどえでぃしょん,"Gold Edition",普通名詞
 ごーるどえーす,"Gold Ace",普通名詞
 ごーるどぐる,"Gold Guru",普通名詞
+ごーるどすぷらっしゅ,"Gold Splash",普通名詞
 ごーるどとりっぷ,"Gold Trip",普通名詞
 ごーるどふぁん,Gold-Fun,普通名詞
 ごーるどふぃーばー,"Gold Fever",普通名詞
@@ -1986,6 +2023,7 @@
 さうんどぷろぽじしょん,"Sound Proposition",普通名詞
 さおのわ,Saonois,普通名詞
 さおるしぇ,Saoire,普通名詞
+さがしてぃ,Sagacity,普通名詞
 さがみっくす,Sagamix,普通名詞
 さがわら,Sagawara,普通名詞
 さきー,Sakhee,普通名詞
@@ -2014,6 +2052,7 @@
 さどらーずうぇるず,"Sadler's Wells",普通名詞
 さどらーずうえるず,"Sadler's Wells",普通名詞
 さどらーずじょい,"Sadler's Joy",普通名詞
+さどらーずほーる,"Saddlers' Hall",普通名詞
 さながす,Sanagas,普通名詞
 さにーくいーん,"Sunny Queen",普通名詞
 さにーしんぐ,"Sunny Sing",普通名詞
@@ -2047,6 +2086,7 @@
 さむしんぐろいやる,Somethingroyal,普通名詞
 さむずあっぷ,"Thumbs Up",普通名詞
 さむずしすたー,"Sam's Sister",普通名詞
+さもなー,Summoner,普通名詞
 さもんど,Summoned,普通名詞
 さらとがすぷりんぐす,"Saratoga Springs",普通名詞
 さらとがでゅー,"Saratoga Dew",普通名詞
@@ -2057,6 +2097,7 @@
 さらりんくす,"Sarah Lynx",普通名詞
 さらゔぁ,Sarava,普通名詞
 さりすか,Sariska,普通名詞
+さるく,Sulk,普通名詞
 さるさびる,Salsabil,普通名詞
 さるす,Salse,普通名詞
 さるとりーそんぐ,"Sultry Song",普通名詞
@@ -2065,6 +2106,7 @@
 さんうぇい,Sunway,普通名詞
 さんがっでぃす,"Sun Goddess",普通名詞
 さんぐすたー,Sangster,普通名詞
+さんぐらもあ,Sanglamore,普通名詞
 さんごっです,"Sun Goddess",普通名詞
 さんしゃいんいんぱり,"Sunshine In Paris",普通名詞
 さんしゃいんすとりーと,"Sunshine Street",普通名詞
@@ -2096,6 +2138,7 @@
 さんどすぷりんぐす,"Sand Springs",普通名詞
 さんどぴっと,Sandpit,普通名詞
 さんどまん,Sandman,普通名詞
+さんふろんてぃえーる,"Sans Frontieres",普通名詞
 さんまるこ,Sammarco,普通名詞
 さんらいと,Sunlight,普通名詞
 さんらいん,Sunline,普通名詞
@@ -2147,6 +2190,7 @@
 ざいてく,Zaitech,普通名詞
 ざいてっく,Zaitech,普通名詞
 ざいんた,Zainta,普通名詞
+ざいーてん,Zieten,普通名詞
 ざうぃきっどのーす,"The Wicked North",普通名詞
 ざうぇいゆーあー,Thewayyouare,普通名詞
 ざおふぁー,"The Offer",普通名詞
@@ -2187,6 +2231,7 @@
 ざぴっつぁまん,"The Pizza Man",普通名詞
 ざふぁくたー,"The Factor",普通名詞
 ざふぁんとむ,"The Phantom",普通名詞
+ざふぁんとむちゃんす,"The Phantom Chance",普通名詞
 ざふぃーん,Zafeen,普通名詞
 ざふぇろー,"The Fellow",普通名詞
 ざふぉにっく,Zafonic,普通名詞
@@ -2250,6 +2295,7 @@
 しぇなにがんず,Shenanigans,普通名詞
 しぇにーる,Chenille,普通名詞
 しぇぴえーる,"Chez Pierre",普通名詞
+しぇまか,Shemaka,普通名詞
 しぇるびーしっくすてぃしっくす,"Shelby Sixtysix",普通名詞
 しぇーる,Shale,普通名詞
 しえらすー,"Sierra Sue",普通名詞
@@ -2321,6 +2367,7 @@
 しゃめか,Shamekha,普通名詞
 しゃらなや,Shalanaya,普通名詞
 しゃらー,Shalaa,普通名詞
+しゃるじゅだふぇーる,"Charge d'Affaires",普通名詞
 しゃるでぃーん,Chaldean,普通名詞
 しゃるとりゅー,Chartreux,普通名詞
 しゃるばすてぃ,Sharvasti,普通名詞
@@ -2334,11 +2381,13 @@
 しゃんてぃさーら,Shantisara,普通名詞
 しゃんとぅ,Shantou,普通名詞
 しゃんとう,Shantou,普通名詞
+しゃんはい,Shanghai,普通名詞
 しゃんはいぼびー,"Shanghai Bobby",普通名詞
 しゃんぱん,Champagne,普通名詞
 しゃんぱんどーろ,"Champagne d'Oro",普通名詞
 しゃんぱんるーむ,"Champagne Room",普通名詞
 しゃんぺるぜりーぜ,"Champers Elysees",普通名詞
+しゃーうっどふぉれすと,"Sherwood Forest",普通名詞
 しゃーぷあすてか,"Sharp Azteca",普通名詞
 しゃーぷきゃっと,"Sharp Cat",普通名詞
 しゃーぷりさ,"Sharp Lisa",普通名詞
@@ -2424,6 +2473,7 @@
 しるゔぁーまっくす,"Silver Max",普通名詞
 しるゔぁーめいでん,"Silver Maiden",普通名詞
 しるゔぁーわごん,"Silver Wagon",普通名詞
+しれりー,Sillery,普通名詞
 しれーりー,Shillelagh,普通名詞
 しろっこ,Shirocco,普通名詞
 しろぷらくたー,Chiropractor,普通名詞
@@ -2492,6 +2542,7 @@
 しーにっくしょっと,"Scenic Shot",普通名詞
 しーにっくぴーく,"Scenic Peak",普通名詞
 しーにっくぶらすと,"Scenic Blast",普通名詞
+しーば,Shiva,普通名詞
 しーひーろー,"Sea Hero",普通名詞
 しーびーわいるど,"She Be Wild",普通名詞
 しーふぃーるずぷりてぃ,"She Feels Pretty",普通名詞
@@ -2504,6 +2555,7 @@
 しーろ,Ciro,普通名詞
 しーんあべりー,"Sean Avery",普通名詞
 しーんあゔぇりー,"Sean Avery",普通名詞
+しーゔぁ,Shiva,普通名詞
 じあべろっと,Giavellotto,普通名詞
 じあゔぇろっと,Giavellotto,普通名詞
 じぇいうぉーく,Jaywalk,普通名詞
@@ -2511,8 +2563,10 @@
 じぇざべる,Jezabeel,普通名詞
 じぇしかいずばっく,"Jessica Is Back",普通名詞
 じぇしかびーる,Jessicabeel,普通名詞
+じぇっとすきーれでぃ,"Jet Ski Lady",普通名詞
 じぇっとせってぃんぐ,"Jet Setting",普通名詞
 じぇっとますたー,"Jet Master",普通名詞
+じぇにふぁーえくるず,"Jennifer Eccles",普通名詞
 じぇねらす,Generous,普通名詞
 じぇねらるくぉーたーず,"General Quarters",普通名詞
 じぇねらるちゃれんじ,"General Challenge",普通名詞
@@ -2521,6 +2575,7 @@
 じぇらにも,Jeranimo,普通名詞
 じぇり,Geri,普通名詞
 じぇるまんす,Germance,普通名詞
+じぇんとぅー,Gentoo,普通名詞
 じぇんとるうぇーぶ,Gentlewave,普通名詞
 じぇんとるうぇーゔ,Gentlewave,普通名詞
 じぇんとるめん,"Gentlemen (ARG)",普通名詞
@@ -2708,6 +2763,7 @@
 すきゅら,Scylla,普通名詞
 すきゅーうぃふ,"Skew Wiff",普通名詞
 すきるど,Skilled,普通名詞
+すきーぱらだいす,"Ski Paradise",普通名詞
 すくうぃーく,Squeak,普通名詞
 すくえあえでぃー,"Square Eddie",普通名詞
 すくわーとるすくわーと,"Squirtle Squirt",普通名詞
@@ -2717,6 +2773,7 @@
 すこるしーちゃんぷ,"Scorthy Champ",普通名詞
 すこーぴおん,Scorpion,普通名詞
 すこーぷ,Scope,普通名詞
+すたいりっしゅせんちゅりー,"Stylish Century",普通名詞
 すたいるばんどーむ,"Style Vendome",普通名詞
 すたいるゔぁんどーむ,"Style Vendome",普通名詞
 すたいんべっく,Steinbeck,普通名詞
@@ -2726,6 +2783,7 @@
 すたりーん,Starine,普通名詞
 すたんどとぅげいん,"Stand to Gain",普通名詞
 すたーうぃっとねす,"Star Witness",普通名詞
+すたーおぶこじーん,"Star of Cozzene",普通名詞
 すたーおぶせびる,"Star Of Seville",普通名詞
 すたーおぶせゔぃる,"Star Of Seville",普通名詞
 すたーおーばーざべい,"Star Over the Bay",普通名詞
@@ -3015,6 +3073,7 @@
 せぶんすすとりーと,"Seventh Street",普通名詞
 せぶんすへぶん,"Seventh Heaven",普通名詞
 せぶんすへゔん,"Seventh Heaven",普通名詞
+せぷてぃえーむしえる,"Septieme Ciel",普通名詞
 せぷてぃます,Septimus,普通名詞
 せぷてんばーらん,"September Run",普通名詞
 せぽい,Sepoy,普通名詞
@@ -3078,6 +3137,7 @@
 ぜりー,Zellie,普通名詞
 ぜるざる,Zelzal,普通名詞
 ぜんせーしょなる,Zensational,普通名詞
+ぜんだ,Zenda,普通名詞
 ぜんだん,Zandon,普通名詞
 そありんぐそふとりー,"Soaring Softly",普通名詞
 そありんぐふりー,"Soaring Free",普通名詞
@@ -3131,6 +3191,7 @@
 そーてるぬ,Sauterne,普通名詞
 そーとぷろせす,"Thought Process",普通名詞
 そーどおぶおすまん,"Sword Of Osman",普通名詞
+そーどおぶすてーと,"Sword Of State",普通名詞
 そーはっぴー,"So Happy",普通名詞
 そーぴーどあな,"Thorpedo Anna",普通名詞
 そーぴーどあんな,"Thorpedo Anna",普通名詞
@@ -3180,6 +3241,7 @@
 たかふる,Takaful,普通名詞
 たがろあ,Tagaloa,普通名詞
 たくてぃかるきゃっと,"Tactical Cat",普通名詞
+たぐら,Tagula,普通名詞
 たぐるーだ,Taghrooda,普通名詞
 たし,Tashi,普通名詞
 たすかんいぶにんぐ,"Tuscan Evening",普通名詞
@@ -3326,6 +3388,7 @@
 だんすとぅぶりすとる,"Dance to Bristol",普通名詞
 だんすとぅるーざどーん,Dancethruthedawn,普通名詞
 だんすひーろー,"Dance Hero",普通名詞
+だんすーずどぅそわーる,"Danseuse du Soir",普通名詞
 だんずだんずだんす,Danzdanzdance,普通名詞
 だんせてりあ,Danceteria,普通名詞
 だんぜろ,Danzero,普通名詞
@@ -3360,6 +3423,7 @@
 ちきーた,Chicquita,普通名詞
 ちぜりんぐ,Chiselling,普通名詞
 ちたうんれいでぃ,"Chi Town Lady",普通名詞
+ちちかすてなんご,Chichicastenango,普通名詞
 ちまでとりおんふ,"Cima De Triomphe",普通名詞
 ちゃいにーずほわいと,"Chinese White",普通名詞
 ちゃいむずおぶふりーだむ,"Chimes of Freedom",普通名詞
@@ -3474,14 +3538,18 @@
 てらびすた,Terravista,普通名詞
 てらゔぃすた,Terravista,普通名詞
 てりとりーず,Territories,普通名詞
+てりもん,Terimon,普通名詞
 てりんぐ,Telling,普通名詞
 てるあけりー,"Tell a Kelly",普通名詞
+てるあてる,"Terre a Terre",普通名詞
+てるける,"Tel Quel",普通名詞
 てるてゅりあん,Tertullian,普通名詞
 てれあてれ,"Terre à Terre",普通名詞
 てんすき,Tenski,普通名詞
 てんそぶりんず,"Ten Sovereigns",普通名詞
 てんそゔりんず,"Ten Sovereigns",普通名詞
 てんてぃりす,Tentyris,普通名詞
+てんびー,Tenby,普通名詞
 てんぷてっど,Tempted,普通名詞
 てんぷるおぶぶーむ,"Temple of Boom",普通名詞
 てんぺら,Tempera,普通名詞
@@ -3580,6 +3648,7 @@
 でいんひるだんさー,"Danehill Dancer",普通名詞
 でくらしふぁい,Declassify,普通名詞
 でくられーしょんおぶうぉー,"Declaration of War",普通名詞
+でくらんずむーん,"Declan's Moon",普通名詞
 でこれーてぃっどないと,"Decorated Knight",普通名詞
 でこれーてっどいんべーだー,"Decorated Invader",普通名詞
 でこれーてっどいんゔぇーだー,"Decorated Invader",普通名詞
@@ -3657,6 +3726,7 @@
 でゔぃるむーん,"Devil Moon",普通名詞
 でゔぃるめいけあ,"Devil May Care",普通名詞
 でーたりんく,"Data Link",普通名詞
+でーんういん,Danewin,普通名詞
 でーんじゅりあ,"Dane Julia",普通名詞
 でーんすとーむ,Danestorm,普通名詞
 でーんりっぱー,"Dane Ripper",普通名詞
@@ -3720,6 +3790,7 @@
 とりっぷとぅぱりす,"Trip To Paris",普通名詞
 とりにばーぐ,Trinniberg,普通名詞
 とりばりすと,Tribalist,普通名詞
+とりびゅれーしょん,Tribulation,普通名詞
 とりびゅーつ,Tributes,普通名詞
 とりぶばん,Tribhuvan,普通名詞
 とりぶゔぁん,Tribhuvan,普通名詞
@@ -3760,6 +3831,7 @@
 とーたるぎゃらりー,"Total Gallery",普通名詞
 とーなりすと,Tonalist,普通名詞
 とーねーどあらーと,"Tornado Alert",普通名詞
+とーれんしゃる,Torrential,普通名詞
 どぅあいす,Duais,普通名詞
 どぅいっとうぃずすたいる,"Do It With Style",普通名詞
 どぅぶりの,Dublino,普通名詞
@@ -3839,6 +3911,7 @@
 どりーむらっしゅ,"Dream Rush",普通名詞
 どりーむろーぱー,Dreamloper,普通名詞
 どるとむんと,Dortmund,普通名詞
+どるふぃんすとりーと,"Dolphin Street",普通名詞
 どれいんざくろっく,"Drain the Clock",普通名詞
 どれすとぅすりる,"Dress to Thrill",普通名詞
 どれふぉん,Drefong,普通名詞
@@ -3862,10 +3935,12 @@
 どーんおぶうぉー,"Dawn of War",普通名詞
 どーゔぃる,Deauville,普通名詞
 ないきすと,Nyquist,普通名詞
+ないさー,Nicer,普通名詞
 ないそす,Nysos,普通名詞
 ないたいむ,Nightime,普通名詞
 ないつおーだー,"Knights Order",普通名詞
 ないつちょいす,"Knight's Choice",普通名詞
+ないつばろねす,"Knight's Baroness",普通名詞
 ないつぶりっじ,Knightsbridge,普通名詞
 ないとおぶさんだー,"Night Of Thunder",普通名詞
 ないとしふと,"Night Shift",普通名詞
@@ -3889,6 +3964,7 @@
 なたごら,Natagora,普通名詞
 なたるま,Natalma,普通名詞
 なだる,Nadal,普通名詞
+なちゅらりずむ,Naturalism,普通名詞
 なちゅらるぶりっつ,"Natural Blitz",普通名詞
 なちょまん,"Nacho Man",普通名詞
 なっきー,Nucky,普通名詞
@@ -3956,6 +4032,7 @@
 ねくすとくえすちょん,"Next Question",普通名詞
 ねくすとしぇあーず,"Next Shares",普通名詞
 ねくすとじーな,"Next Gina",普通名詞
+ねくすとでざーと,"Next Desert",普通名詞
 ねすと,Nest,普通名詞
 ねずわー,Nezwaah,普通名詞
 ねだうぃ,Nedawi,普通名詞
@@ -4253,7 +4330,9 @@
 ばるなばら,Barnavara,普通名詞
 ばるなゔぁら,Barnavara,普通名詞
 ばるみゅーず,Balmuse,普通名詞
+ばるもんと,Balmont,普通名詞
 ばるろいやる,"Val Royal",普通名詞
+ばれっと,Balletto,普通名詞
 ばれでぃくたむ,Valedictum,普通名詞
 ばれなー,Varenar,普通名詞
 ばれんたいんわるつ,"Valentine Waltz",普通名詞
@@ -4302,6 +4381,7 @@
 ばーゔぁ,Vahva,普通名詞
 ぱいおにあおぶざないる,"Pioneerof the Nile",普通名詞
 ぱいくぷれいすだんさー,"Pike Place Dancer",普通名詞
+ぱいた,Paita,普通名詞
 ぱいるどらいばー,Pyledriver,普通名詞
 ぱいるどらいゔぁー,Pyledriver,普通名詞
 ぱいれーつりべんじ,"Pirate's Revenge",普通名詞
@@ -4350,6 +4430,7 @@
 ぱるくりちゅでぃなす,Pulchritudinous,普通名詞
 ぱるぴっと,Pulpit,普通名詞
 ぱるます,Palmas,普通名詞
+ぱれす,Palace,普通名詞
 ぱれすえぴそーど,"Palace Episode",普通名詞
 ぱれすぴあ,"Palace Pier",普通名詞
 ぱれすまりす,"Palace Malice",普通名詞
@@ -4382,6 +4463,7 @@
 ぱーそなるえんさいん,"Personal Ensign",普通名詞
 ぱーそなるえんすん,"Personal Ensign",普通名詞
 ぱーそなるだいありー,"Personal Diary",普通名詞
+ぱーそなるほーぷ,"Personal Hope",普通名詞
 ぱーてぃぷらる,Partipral,普通名詞
 ぱーふぇくとありばい,"Perfect Alibi",普通名詞
 ぱーふぇくとあーく,"Perfect Arc",普通名詞
@@ -4470,6 +4552,7 @@
 びっぐいーゔす,"Big Evs",普通名詞
 びっぐおれんじ,"Big Orange",普通名詞
 びっぐしゃっふる,"Big Shuffle",普通名詞
+びっぐすとーん,Bigstone,普通名詞
 びっぐどらま,"Big Drama",普通名詞
 びっぐばっくす,"Big Buck's",普通名詞
 びっぐぱっと,"Big Pat",普通名詞
@@ -4542,6 +4625,7 @@
 ぴかでい,Picaday,普通名詞
 ぴこせんとらる,"Pico Central",普通名詞
 ぴすとるずあんどろーぜす,"Pistols and Roses",普通名詞
+ぴすとれぶるー,"Pistolet Bleu",普通名詞
 ぴっころ,Piccolo,普通名詞
 ぴっつぁびあんか,"Pizza Bianca",普通名詞
 ぴっとかーん,Pitcairn,普通名詞
@@ -4637,6 +4721,7 @@
 ふぁーすとしーる,"First Seal",普通名詞
 ふぁーすとでぃふぇんす,"First Defence",普通名詞
 ふぁーすとでゅーど,"First Dude",普通名詞
+ふぁーすととらんぷ,"First Trump",普通名詞
 ふぁーすとふぁいぶ,"First Five",普通名詞
 ふぁーすとふぁいゔ,"First Five",普通名詞
 ふぁーぜすとらんど,"Furthest Land",普通名詞
@@ -4674,6 +4759,7 @@
 ふぃーるざびーと,"Feel the Beat",普通名詞
 ふぃーるずおぶおまー,"Fields Of Omagh",普通名詞
 ふぃーるどおぶごーるど,"Field Of Gold",普通名詞
+ふぃーるどおぶほーぷ,"Field of Hope",普通名詞
 ふぇあうぇい,Fairway,普通名詞
 ふぇあじゃぐ,"Fayr Jag",普通名詞
 ふぇあとらいある,"Fair Trial",普通名詞
@@ -4681,6 +4767,7 @@
 ふぇあみっくす,"Fair Mix",普通名詞
 ふぇあめいでん,"Fair Maiden",普通名詞
 ふぇありーきんぐ,"Fairy King",普通名詞
+ふぇありーきんぐぷろーん,"Fairy King Prawn",普通名詞
 ふぇありーぐれん,"Fairy Glen",普通名詞
 ふぇありーぶりっじ,"Fairy Bridge",普通名詞
 ふぇありーらんど,Fairyland,普通名詞
@@ -4747,6 +4834,7 @@
 ふぉーじどすてぃーる,"Forged Steel",普通名詞
 ふぉーすざぱす,"Force the Pass",普通名詞
 ふぉーすたーくるっく,"Fourstar Crook",普通名詞
+ふぉーすたーずおーるすたー,"Fourstars Allstar",普通名詞
 ふぉーだ,Fowda,普通名詞
 ふぉーて,Forte,普通名詞
 ふぉーてぃないなー,"Forty Niner",普通名詞
@@ -4905,6 +4993,7 @@
 ぶりりあんす,Brilliance,普通名詞
 ぶりりあんとすぴーど,"Brilliant Speed",普通名詞
 ぶりーかーすとりーと,"Bleecker Street",普通名詞
+ぶりーふとぅるーす,"Brief Truce",普通名詞
 ぶるずべい,Bullsbay,普通名詞
 ぶるた,Bulta,普通名詞
 ぶるたりーふらんく,"Brutally Frank",普通名詞
@@ -4985,6 +5074,7 @@
 ぷらいゔぇーとぱーすえーじょん,"Private Persuasion",普通名詞
 ぷらいゔぇーとらいふ,"Private Life",普通名詞
 ぷらうえす,Prowess,普通名詞
+ぷらうどあこれーど,"Proud Accolade",普通名詞
 ぷらうどあんどりーがる,"Proud And Regal",普通名詞
 ぷらうどすぺる,"Proud Spell",普通名詞
 ぷらうどたわーとぅー,"Proud Tower Too",普通名詞
@@ -5042,6 +5132,7 @@
 ぷるぴっと,Pulpit,普通名詞
 ぷるまにあ,Plumania,普通名詞
 ぷれいどはーど,"Played Hard",普通名詞
+ぷれいふるあくと,"Playful Act",普通名詞
 ぷれいんぐごっど,"Playing God",普通名詞
 ぷれざべーしょんりすと,Preservationist,普通名詞
 ぷれざんところにー,"Pleasant Colony",普通名詞
@@ -5133,6 +5224,7 @@
 へるめっと,Helmet,普通名詞
 へるゔぃっくどりーむ,"Helvic Dream",普通名詞
 へれなす,Helenus,普通名詞
+へれにっく,Hellenic,普通名詞
 へれねすたー,"Helene Star",普通名詞
 へれんすたー,"Helene Star",普通名詞
 へれんすとりーと,"Helen Street",普通名詞
@@ -5192,6 +5284,7 @@
 べたーらいふ,"Better Life",普通名詞
 べたーるーきー,"Better Lucky",普通名詞
 べたーるーすんあっぷ,"Better Loosen Up",普通名詞
+べっとーり,Vettori,普通名詞
 べでらご,Vedelago,普通名詞
 べとらー,Bethrah,普通名詞
 べどうぃん,Bedouin,普通名詞
@@ -5259,6 +5352,7 @@
 べーとーべん,Beethoven,普通名詞
 べーとーゔぇん,Beethoven,普通名詞
 べーりんぐ,Bering,普通名詞
+べーるたまんど,"Vert Amande",普通名詞
 べーるどぐれーす,"Vert De Grece",普通名詞
 べーれんず,Behrens,普通名詞
 ぺあたーと,"Pear Tart",普通名詞
@@ -5280,6 +5374,7 @@
 ぺりくれす,Pericles,普通名詞
 ぺるいんかんと,"Per Incanto",普通名詞
 ぺるしあんきんぐ,"Persian King",普通名詞
+ぺるだー,Pelder,普通名詞
 ぺれぐりーの,Pellegrino,普通名詞
 ぺんたいあ,Pentire,普通名詞
 ぺんたん,Pentane,普通名詞
@@ -5328,6 +5423,7 @@
 ほーむずまん,Homesman,普通名詞
 ほーむぼーいくりす,Homeboykris,普通名詞
 ほーむれすそんぐす,"Homeless Songs",普通名詞
+ほーりっくす,Horlicks,普通名詞
 ほーりんぐ,Halling,普通名詞
 ほーりーぐれいる,"Holy Grail",普通名詞
 ほーりーぶる,"Holy Bull",普通名詞
@@ -5401,6 +5497,7 @@
 ぼーどびる,Vaudeville,普通名詞
 ぼーどまいすたー,Bodemeister,普通名詞
 ぼーどゔぃる,Vaudeville,普通名詞
+ぼーなむ,Bonham,普通名詞
 ぼーぬろまね,"Vosne Romanee",普通名詞
 ぼーるだんしんぐ,"Ball Dancing",普通名詞
 ぼーるどえっじ,"Bold Edge",普通名詞
@@ -5428,6 +5525,8 @@
 ぽすとぽんど,Postponed,普通名詞
 ぽせいどんずうぉりあ,"Poseidon's Warrior",普通名詞
 ぽせいどんずうぉりあー,"Poseidon's Warrior",普通名詞
+ぽぜっしぶだんさー,"Possessive Dancer",普通名詞
+ぽぜっしゔだんさー,"Possessive Dancer",普通名詞
 ぽちょむきん,Potemkin,普通名詞
 ぽっしぶりーぱーふぇくと,"Possibly Perfect",普通名詞
 ぽっぷとろにっく,Poptronic,普通名詞
@@ -5437,11 +5536,13 @@
 ぽぷとろにっく,Poptronic,普通名詞
 ぽめろい,Pomeroy,普通名詞
 ぽらいとねす,Politeness,普通名詞
+ぽらりすふらいと,"Polaris Flight",普通名詞
 ぽらりせーしょん,Polarisation,普通名詞
 ぽらりぜーしょん,Polarisation,普通名詞
 ぽらんすきー,Polanski,普通名詞
 ぽりぐろーと,Poliglote,普通名詞
 ぽりっしゅぱとりおっと,"Polish Patriot",普通名詞
+ぽりてん,Polytain,普通名詞
 ぽりーどりーむ,Polydream,普通名詞
 ぽるたふぉるとぅな,"Porta Fortuna",普通名詞
 ぽるにしぇ,Pornichet,普通名詞
@@ -5486,6 +5587,7 @@
 まいとらすてぃーきゃっと,"My Trusty Cat",普通名詞
 まいとーる,Mitole,普通名詞
 まいどりーむぼーと,"My Dream Boat",普通名詞
+まいなーずまーく,"Miner's Mark",普通名詞
 まいふらっぐ,"My Flag",普通名詞
 まいぶらいてぃあ,"My Brightia",普通名詞
 まいべすとばれんたいん,"My Best Valentine",普通名詞
@@ -5516,6 +5618,7 @@
 まくしおす,Maxios,普通名詞
 まくふぃ,Makfi,普通名詞
 まくりーんずみゅーじっく,"Maclean's Music",普通名詞
+まくーんば,Macoumba,普通名詞
 まぐなぐりーしあ,"Magna Grecia",普通名詞
 まぐなす,Magnus,普通名詞
 まぐなむふぉーす,"Magnum Force",普通名詞
@@ -5523,6 +5626,7 @@
 まぐにちゅーど,Magnitude,普通名詞
 まぐにてゅーど,Magnitude,普通名詞
 まぐにふぃじお,Magnifisio,普通名詞
+まぐにふぃせんとすたー,"Magnificent Star",普通名詞
 まぐにふぃせんとそんぐ,"Magnificent Song",普通名詞
 まぐわいあ,Maguire,普通名詞
 まこりーりー,MacO'Reilly,普通名詞
@@ -5546,6 +5650,7 @@
 まじっくあてぃちゅーど,"Magic Attitude",普通名詞
 まじっくけーぷ,"Magic Cape",普通名詞
 まじっくたいむ,"Magic Time",普通名詞
+まじっくないと,"Magic Night",普通名詞
 まじっくはりけーん,"Magic Hurricane",普通名詞
 まじっくわんど,"Magic Wand",普通名詞
 ますいふ,Mus-If,普通名詞
@@ -5586,6 +5691,7 @@
 まてぃや,Matiya,普通名詞
 まてりありてぃ,Materiality,普通名詞
 までぃそんかうんてぃ,"Madison County",普通名詞
+まどれーぬずどりーむ,"Madeleine's Dream",普通名詞
 まなーる,Manaal,普通名詞
 まにがー,Manighar,普通名詞
 まにすてぃく,Manistique,普通名詞
@@ -5613,13 +5719,16 @@
 まりあずもん,"Maria's Mon",普通名詞
 まりあなふっと,Marianafoot,普通名詞
 まりあみあ,Mariamia,普通名詞
+まりえんばーど,Marienbard,普通名詞
 まりぶぷれいやー,"Malibu Prayer",普通名詞
 まりぶみんと,"Malibu Mint",普通名詞
 まりぶむーん,"Malibu Moon",普通名詞
+まりるど,Marildo,普通名詞
 まるきーずどぅせびにえ,"Mqse De Sevigne",普通名詞
 まるきーずどぅせゔぃにえ,"Mqse De Sevigne",普通名詞
 まるきーずどせびにえ,"Mqse De Sevigne",普通名詞
 まるきーずどせゔぃにえ,"Mqse De Sevigne",普通名詞
+まるしゃんどさぶる,"Marchand de Sable",普通名詞
 まるしゃんどーる,"Marchand D'Or",普通名詞
 まるじゅ,Marju,普通名詞
 まるせる,Marcel,普通名詞
@@ -5692,6 +5801,7 @@
 みすかゔぁーがーる,"Miss Cover Girl",普通名詞
 みすきーぷせいく,"Miss Keepsake",普通名詞
 みすけらー,"Miss Keller",普通名詞
+みすさたみくさ,"Miss Satamixa",普通名詞
 みすすこっと,"Miss Scott",普通名詞
 みすせれんでぃぴてぃ,"Miss Serendipity",普通名詞
 みすたーくいっきー,"Mr Quickie",普通名詞
@@ -5706,6 +5816,7 @@
 みすたーぱーぷる,"Mr Purple",普通名詞
 みすたーふりすきー,"Mister Frisky",普通名詞
 みすたーぶらいとさいど,"Mr Brightside",普通名詞
+みすたーぶるっくす,"Mr Brooks",普通名詞
 みすたーぷろすぺくたー,Mr.Prospector,普通名詞
 みすたーべいりーず,"Mister Baileys",普通名詞
 みすたーまりがん,"Mr Mulligan",普通名詞
@@ -5802,6 +5913,7 @@
 むしゃうぃしゅ,Mshawish,普通名詞
 むしゃうぃっしゅ,Mshawish,普通名詞
 むしゅか,Mushka,普通名詞
+むじゃひど,Mujahid,普通名詞
 むすこか,Muskoka,普通名詞
 むすたしゅりー,Mustashry,普通名詞
 むたくでぃむ,Mutakddim,普通名詞
@@ -5817,6 +5929,7 @@
 むーくた,Mookta,普通名詞
 むーす,Muth,普通名詞
 むーたてぃーる,Muhtathir,普通名詞
+むーたらむ,Muhtarram,普通名詞
 むーちょぐすと,"Mucho Gusto",普通名詞
 むーちょまっちょまん,"Mucho Macho Man",普通名詞
 むーなっくす,Moonax,普通名詞
@@ -5844,6 +5957,7 @@
 めいびー,Maybe,普通名詞
 めいびーでぃすくりーと,"Maybe Discreet",普通名詞
 めいぶんべる,"Maven Belle",普通名詞
+めいぼーる,"May Ball",普通名詞
 めいよーおんざさいど,"Mayo On the Side",普通名詞
 めいるざでざーと,"Mail The Desert",普通名詞
 めいんしーくえんす,"Main Sequence",普通名詞
@@ -5878,6 +5992,7 @@
 めりでぃあな,Meridiana,普通名詞
 めりるぼーん,Marylebone,普通名詞
 めりーと,Melito,普通名詞
+めるかる,Mercalle,普通名詞
 めろでぃべる,"Melody Belle",普通名詞
 めろでぃーべる,"Melody Belle",普通名詞
 めんたりてぃ,Mentality,普通名詞
@@ -5944,6 +6059,7 @@
 もんでぃありすと,Mondialiste,普通名詞
 もんとやずしーくれっと,"Montoya's Secret",普通名詞
 もんとりおーるれっど,"Montreal Red",普通名詞
+もんどりあん,Mondrian,普通名詞
 もんば,Monba,普通名詞
 もんまるとる,Montmartre,普通名詞
 もんめっき,"Mon Mekki",普通名詞
@@ -6109,15 +6225,18 @@
 らはん,Lahan,普通名詞
 らばまん,"Lava Man",普通名詞
 らばらか,"La Baraka",普通名詞
+らひぶ,Lahib,普通名詞
 らびるこ,Lavirco,普通名詞
 らびんぐがびー,"Loving Gaby",普通名詞
 らびんぐぎゃびー,"Loving Gaby",普通名詞
 らびんぐくれいむ,"Loving Claim",普通名詞
 らびんぐどりーむ,"Loving Dream",普通名詞
 らびーぶ,Labeeb,普通名詞
+らふぁ,Rafha,普通名詞
 らふぃんぐ,Laughing,普通名詞
 らふしょっど,"Rough Shod",普通名詞
 らふどぅーど,Lahudood,普通名詞
+らふはびっと,"Rough Habit",普通名詞
 らぶ,Love,普通名詞
 らぶあんどぷらいど,"Love and Pride",普通名詞
 らぶざうぇいゆーあー,"Love Theway Youare",普通名詞
@@ -6204,6 +6323,7 @@
 りざーずでぃざいあ,"Lizard's Desire",普通名詞
 りざーぶばんく,"Reserve Bank",普通名詞
 りざーゔばんく,"Reserve Bank",普通名詞
+りしうす,Lycius,普通名詞
 りじーらむーる,"Lizzie L'Amour",普通名詞
 りすかばーす,Riskaverse,普通名詞
 りすかゔぁーす,Riskaverse,普通名詞
@@ -6278,6 +6398,7 @@
 りらっくすどじぇすちゃー,"Relaxed Gesture",普通名詞
 りりかるびっど,"Lyrical Bid",普通名詞
 りりっくおぶらいと,"Lyric of Light",普通名詞
+りりっくふぁんたじー,"Lyric Fantasy",普通名詞
 りりーおぶざばりー,"Lily Of The Valley",普通名詞
 りりーおぶざゔぁりー,"Lily Of The Valley",普通名詞
 りりーずきゃんどる,"Lily's Candle",普通名詞
@@ -6383,9 +6504,11 @@
 るーすたーぶーすたー,"Rooster Booster",普通名詞
 るーすれすでいむ,"Ruthless Dame",普通名詞
 るーそばーじゅ,"Loup Sauvage",普通名詞
+るーそりてーる,"Loup Solitaire",普通名詞
 るーそゔぁーじゅ,"Loup Sauvage",普通名詞
 るーどあうぇいくにんぐ,"Ruud Awakening",普通名詞
 るーひや,Rouhiya,普通名詞
+るーぶる,Rouvres,普通名詞
 るーむさーびす,"Room Service",普通名詞
 るーむさーゔぃす,"Room Service",普通名詞
 るーらーおぶざわーるど,"Ruler of the World",普通名詞
@@ -6393,6 +6516,7 @@
 るーりんぐこーと,"Ruling Court",普通名詞
 るーるおぶろー,"Rule of Law",普通名詞
 るーるまん,Ruhlmann,普通名詞
+るーゔる,Rouvres,普通名詞
 れあむーん,"Rhea Moon",普通名詞
 れありーば,Leariva,普通名詞
 れありーゔぁ,Leariva,普通名詞
@@ -6483,6 +6607,7 @@
 れでぃえなー,Rediener,普通名詞
 れでぃおぶきゃめろっと,"Lady of Camelot",普通名詞
 れでぃおぶしゃむろっく,"Lady of Shamrock",普通名詞
+れでぃおぶちゃど,"Lady of Chad",普通名詞
 れでぃおぶふぃふてぃ,"Lady of Fifty",普通名詞
 れでぃおれりあ,"Lady Aurelia",普通名詞
 れでぃおーれりあ,"Lady Aurelia",普通名詞
@@ -6522,6 +6647,7 @@
 れべんでぃ,Levendi,普通名詞
 れぼーく,Revoque,普通名詞
 れぼーふ,"Les Beaufs",普通名詞
+れもんすふれ,"Lemon Souffle",普通名詞
 れもんずふぉーえばー,"Lemons Forever",普通名詞
 れもんずふぉーえゔぁー,"Lemons Forever",普通名詞
 れもんどろっぷきっど,"Lemon Drop Kid",普通名詞
@@ -6560,6 +6686,7 @@
 ろいやるみーてぃんぐ,"Royal Meeting",普通名詞
 ろいやるれべる,"Royal Rebel",普通名詞
 ろくて,Lochte,普通名詞
+ろけっとすぺーど,"Rocket Spade",普通名詞
 ろけっとまん,"Rocket Man",普通名詞
 ろさんぜるす,"Los Angeles",普通名詞
 ろざなら,Rosanara,普通名詞
@@ -6589,6 +6716,7 @@
 ろっくおんるびー,"Rock On Ruby",普通名詞
 ろっくきんぐだむ,"Rock Kingdom",普通名詞
 ろっくくらしっく,"Rock Classic",普通名詞
+ろっくそんぐ,Lochsong,普通名詞
 ろっくでぃーば,"Rock Diva",普通名詞
 ろっくでぃーゔぁ,"Rock Diva",普通名詞
 ろっくど,Locked,普通名詞
@@ -6637,6 +6765,7 @@
 ろーがんじょしゅ,"Rogan Josh",普通名詞
 ろーじずいんめい,"Roses In May",普通名詞
 ろーずおぶいんでぃしーず,"Laws Of Indices",普通名詞
+ろーずじぷしー,"Rose Gypsy",普通名詞
 ろーだー,Loader,普通名詞
 ろーと,Wrote,普通名詞
 ろーど,Lode,普通名詞
@@ -6687,6 +6816,7 @@
 わなびーぐらんど,"Wannabe Grand",普通名詞
 わひど,Wahid,普通名詞
 わらいとぷりんせす,"Wharite Princess",普通名詞
+われんだー,Wallenda,普通名詞
 わんあんだー,"One Under",普通名詞
 わんいんばーみりおん,"One in Vermillion",普通名詞
 わんいんゔぁーみりおん,"One in Vermillion",普通名詞
@@ -6832,6 +6962,7 @@
 ゔぇこま,Vekoma,普通名詞
 ゔぇすぱ,Vespa,普通名詞
 ゔぇすぽん,Vespone,普通名詞
+ゔぇっとーり,Vettori,普通名詞
 ゔぇでらご,Vedelago,普通名詞
 ゔぇねしあんさん,"Venetian Sun",普通名詞
 ゔぇねちあんさん,"Venetian Sun",普通名詞
@@ -6848,6 +6979,7 @@
 ゔぇんじぇんすおぶれいん,"Vengeance Of Rain",普通名詞
 ゔぇんちゅら,Ventura,普通名詞
 ゔぇんでぃみあぴん,"Vendimia Pin",普通名詞
+ゔぇーるたまんど,"Vert Amande",普通名詞
 ゔぇーるどぐれーす,"Vert De Grece",普通名詞
 ゔぉいじゃー,Voyager,普通名詞
 ゔぉいっじばぶる,"Voyage Bubble",普通名詞
